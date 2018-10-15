@@ -1,1 +1,2251 @@
-[{"orgName":"EF Lang Tech - DEV  - EFCOM - SF","solutions":[{"id":"f707dd23-e6c4-4c12-bb34-3d02b1270fac","name":"A Sitecore_SF_Salesoffice","maps":[{"id":1913403,"name":"Map 1","mapType":"IntegrationServicesAdvancedMessageMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/7376?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-10T10:33:21.553Z"},{"id":1617746,"name":"Sales Office Map","mapType":"IntegrationServicesAdvancedRequestResponseMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/requests/6432?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-09T12:57:27.177Z"}]},{"id":"9992fdd2-5314-44dd-b8b3-ba0bf64a40bd","name":"BTN Test event","maps":[{"id":2297748,"name":"Map 1","mapType":"IntegrationServicesAdvancedMessageMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8533?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-10T11:25:44.63Z"},{"id":2283052,"name":"Map 0","mapType":"IntegrationServicesAdvancedRequestResponseMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/requests/8521?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-10T04:59:34.033Z"}]},{"id":"e7e37326-0297-45e6-9d1d-bb82e1a79c02","name":"Dipti Test","maps":[{"id":2246043,"name":"Map 1","mapType":"IntegrationServicesAdvancedMessageMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8425?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-09T11:29:22.083Z"},{"id":2233707,"name":"Map 0","mapType":"IntegrationServicesAdvancedMessageMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8412?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-09T11:29:16.067Z"}]},{"id":"9cbd2977-b8b3-4e60-b823-581adb31f5a7","name":"New Solution","maps":[{"id":2278179,"name":"Map 1","mapType":"IntegrationServicesAdvancedMap","eventUrl":null,"lastModified":"2018-10-09T12:08:28.53Z"},{"id":2278147,"name":"Map 0","mapType":"IntegrationServicesAdvancedMap","eventUrl":null,"lastModified":"2018-10-09T12:08:11.747Z"}]},{"id":"cf4cf13f-2537-40b3-ab33-5319a6a79a34","name":"BTN Test","maps":[{"id":2283028,"name":"Add mpk based on available customer's mpk ids","mapType":"IntegrationServicesAdvancedMap","eventUrl":null,"lastModified":"2018-10-09T12:48:05.587Z"}]},{"id":"ba54b14b-65b4-4d38-b0d3-45fe0733d155","name":"CustomConnector","maps":[{"id":2233466,"name":"Map 0","mapType":"IntegrationServicesAdvancedMessageMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8408?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-10T05:04:05.273Z"}]},{"id":"425c0347-2ff9-4c8c-ba23-1730f2abc89f","name":"Delete Sales Office","maps":[{"id":1868028,"name":"Map 0","mapType":"IntegrationServicesAdvancedMap","eventUrl":null,"lastModified":"2018-10-09T10:44:01.23Z"}]},{"id":"42583938-3330-469f-8271-0bbf18ee9a35","name":"QueueRoutingConfig Insert and Return ID toSF","maps":[{"id":1850571,"name":"Map 0","mapType":"IntegrationServicesAdvancedRequestResponseMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/requests/7233?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-09T12:26:14.817Z"}]},{"id":"de3a05bd-28ee-4018-9830-7d47d6e37c24","name":"Sent Event","maps":[{"id":1754497,"name":"Map 0","mapType":"IntegrationServicesAdvancedMap","eventUrl":null,"lastModified":"2018-10-09T12:28:07.47Z"}]},{"id":"b89fb4d5-4cd2-449e-a95c-83297b8a01c7","name":"DWH_To_SF_Happy Calls_Booking","maps":[{"id":1582477,"name":"Happy Calls Map","mapType":"IntegrationServicesAdvancedMap","eventUrl":null,"lastModified":"2018-10-09T11:28:42.63Z"}]},{"id":"75766130-b9cb-4224-be81-62c7358834d3","name":"DWtoSF.Ranking","maps":[{"id":1111960,"name":"mapLeadRanking","mapType":"IntegrationServicesAdvancedMap","eventUrl":null,"lastModified":"2018-10-09T11:28:26.45Z"},{"id":1111965,"name":"mapOpportunityRanking","mapType":"IntegrationServicesAdvancedMap","eventUrl":null,"lastModified":"2018-10-09T11:28:20.01Z"}]},{"id":"763cd10f-9d42-4923-89ab-841f65faa8e9","name":"EFCom_SF_WFS","maps":[{"id":1809922,"name":"MapWFSToLead","mapType":"IntegrationServicesAdvancedMap","eventUrl":null,"lastModified":"2018-10-15T09:04:16.367Z"}]},{"id":"e661aafc-ca69-4f0d-8dc8-197b38138ee5","name":"Flora_SF_User","maps":[{"id":1608977,"name":"mapFloraUserSync","mapType":"IntegrationServicesAdvancedRequestResponseMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/requests/6423?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-10T05:16:43.15Z"}]},{"id":"0839efa6-118f-46fc-b5db-99bacf44f1aa","name":"ILC SF - EF.COM School Integration","maps":[{"id":1906848,"name":"School Map to EF.Com","mapType":"IntegrationServicesAdvancedMessageMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/7378?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-10T10:34:39.163Z"}]},{"id":"291da548-7266-4d34-a189-adc70a49e291","name":"ILC SF - IA SF _ School Integration","maps":[{"id":1802560,"name":"School_Map","mapType":"IntegrationServicesAdvancedMessageMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/7126?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-09T11:44:06.89Z"}]},{"id":"53908265-2cd8-445d-a1eb-e40373ea5124","name":"ILC SF - Poseidon_ School Integration","maps":[{"id":1906783,"name":"SF to Poseidon","mapType":"IntegrationServicesAdvancedMessageMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/7365?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-09T11:45:12.823Z"}]},{"id":"6f2c5ebe-f832-4731-a5f5-96e4ff23448b","name":"ILC SF_Poseidon_Company","maps":[{"id":1888031,"name":"mapOrganizationAccounts","mapType":"IntegrationServicesAdvancedMessageMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/7325?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-09T12:54:23.087Z"}]},{"id":"1f2096fb-305f-4ce9-8706-26b3b5cb4c5d","name":"MyEF_SF_Ambassador","maps":[{"id":1719676,"name":"MyEF_SF_Ambassador_map","mapType":"IntegrationServicesAdvancedRequestResponseMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/requests/6793?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-09T11:46:54.293Z"}]},{"id":"637494fa-2339-431e-9952-13aa44c0c20e","name":"MyEFPlanner-SF","maps":[{"id":2162944,"name":"Opportunity","mapType":"IntegrationServicesAdvancedRequestResponseMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/requests/8167?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-11T06:39:46.737Z"},{"id":2162979,"name":"CampaignMember","mapType":"IntegrationServicesAdvancedRequestResponseMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/requests/8168?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-11T06:39:46.737Z"},{"id":2162995,"name":"NoteMigration","mapType":"IntegrationServicesAdvancedRequestResponseMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/requests/8169?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-11T06:39:46.737Z"},{"id":2175145,"name":"Event","mapType":"IntegrationServicesAdvancedRequestResponseMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/requests/8192?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-12T13:04:27.127Z"},{"id":2311868,"name":"Event with Quote","mapType":"IntegrationServicesAdvancedRequestResponseMap","eventUrl":null,"lastModified":"2018-10-12T12:59:19.66Z"}]},{"id":"9216dd8c-d23a-4bd7-b716-0174834e0f29","name":"SF-MyEFPlanner","maps":[{"id":2156647,"name":"CampaignMember","mapType":"IntegrationServicesAdvancedMessageMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8136?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-12T10:25:52.007Z"},{"id":2135614,"name":"Account","mapType":"IntegrationServicesAdvancedMessageMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8070?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-12T10:25:52.007Z"},{"id":2142024,"name":"Opporunity","mapType":"IntegrationServicesAdvancedMessageMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8093?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-12T10:25:52.007Z"},{"id":2142049,"name":"Quote","mapType":"IntegrationServicesAdvancedMessageMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8094?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-12T10:25:52.007Z"},{"id":2142429,"name":"User","mapType":"IntegrationServicesAdvancedMessageMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8098?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-12T10:25:52.007Z"},{"id":2156674,"name":"SalesOfficePrograms","mapType":"IntegrationServicesAdvancedMessageMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8137?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-12T10:25:52.007Z"},{"id":2156731,"name":"Campaign","mapType":"IntegrationServicesAdvancedMessageMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8138?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-12T10:25:52.007Z"},{"id":2156933,"name":"Destination","mapType":"IntegrationServicesAdvancedMessageMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8139?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-12T10:25:52.007Z"}]},{"id":"bcdddc5f-e3d4-4226-8c60-f9b0deeb7c83","name":"New2","maps":[{"id":2234356,"name":"new","mapType":"IntegrationServicesAdvancedMessageMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8413?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-09-27T12:30:36.94Z"}]},{"id":"38c625d0-3c42-45aa-8846-45e1aa075c07","name":"Poseidon_SF_GoalSalesStat","maps":[{"id":1584490,"name":"mapGoalSalesStat","mapType":"IntegrationServicesAdvancedMap","eventUrl":null,"lastModified":"2018-10-09T12:19:28.707Z"},{"id":1676678,"name":"Delete SalesStat","mapType":"IntegrationServicesAdvancedMap","eventUrl":null,"lastModified":"2018-10-09T12:19:35.55Z"}]},{"id":"101ec702-aed1-4316-9fcf-5bc2a74cac6c","name":"Poseidon_SF_SourceCode","maps":[{"id":1288017,"name":"mapSourceCode","mapType":"IntegrationServicesAdvancedMap","eventUrl":null,"lastModified":"2018-10-09T12:19:55.923Z"},{"id":1108542,"name":"Delete All Salesforce Sources","mapType":"IntegrationServicesAdvancedMap","eventUrl":null,"lastModified":"2018-10-09T12:20:12.347Z"}]},{"id":"a1b2a242-8e53-4f39-bb9b-c24a41d53de9","name":"PosToSF_BookingInfo","maps":[{"id":1526879,"name":"Poseidon_SF_Booking_Map","mapType":"IntegrationServicesAdvancedRequestResponseMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/requests/6247?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-09T12:23:11.19Z"}]},{"id":"c98f1e9c-53b5-4269-b55d-dcf649b4fec7","name":"PosToSF_Quote","maps":[{"id":1526877,"name":"mapPosToSFQuote","mapType":"IntegrationServicesAdvancedRequestResponseMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/requests/6248?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-09T12:24:24.863Z"}]},{"id":"2d820820-4909-499d-b2a2-6a51fe913618","name":"PosToSF_UpdatePosCustomerID","maps":[{"id":1526873,"name":"mapPosCustomerIdUpdate","mapType":"IntegrationServicesAdvancedRequestResponseMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/requests/6246?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-09T09:49:19.437Z"}]},{"id":"b08b586d-8ae2-4368-a6f6-b4f0e4fabf7d","name":"ProcessScribeErrors","maps":[{"id":1163873,"name":"mapScribeErrors","mapType":"IntegrationServicesAdvancedMap","eventUrl":null,"lastModified":"2018-09-26T05:00:00.403Z"}]},{"id":"da7103a2-fb1a-4d4f-b739-7ab890c2232e","name":"REST POC","maps":[{"id":1272985,"name":"RestMap","mapType":"IntegrationServicesAdvancedMap","eventUrl":null,"lastModified":"2018-10-09T12:27:16.003Z"}]},{"id":"3003e060-70f7-4d47-ae9e-0a474132be38","name":"SF_Flora_UserIDs","maps":[{"id":1870295,"name":"updateSFIds","mapType":"IntegrationServicesAdvancedMap","eventUrl":null,"lastModified":"2018-08-03T15:52:04.503Z"}]},{"id":"84e06982-6104-4a20-b99a-6cd19b9bcbc3","name":"SF_SalesCenter_Records","maps":[{"id":2109020,"name":"Imported - mapAccount","mapType":"IntegrationServicesAdvancedMessageMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/7940?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-08-30T10:12:33.04Z"},{"id":2109021,"name":"Imported - mapOpportunity","mapType":"IntegrationServicesAdvancedMessageMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/7941?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-08-30T10:14:07.917Z"}]},{"id":"c0bfcccc-21b7-42f5-9053-2986cfed5fc4","name":"SFtoPos_ActiveOpportunitySync","maps":[{"id":1526866,"name":"ActiveOpportunitySync","mapType":"IntegrationServicesAdvancedRequestResponseMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/requests/6456?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-06-05T12:48:46.78Z"}]}]},{"orgName":"EF Lang Tech - DEV  - EFCOM - SF","solutions":[{"id":"f707dd23-e6c4-4c12-bb34-3d02b1270fac","name":"A Sitecore_SF_Salesoffice","maps":[{"id":1913403,"name":"Map 1","mapType":"IntegrationServicesAdvancedMessageMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/7376?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-10T10:33:21.553Z","sha":"e49a5bddf9c0392288ce1a46fa8e4ab9f16e79dc"}]},{"id":"9992fdd2-5314-44dd-b8b3-ba0bf64a40bd","name":"BTN Test event","maps":[{"id":2297748,"name":"Map 1","mapType":"IntegrationServicesAdvancedMessageMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8533?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-10T11:25:44.63Z","sha":"e49a5bddf9c0392288ce1a46fa8e4ab9f16e79dc"}]},{"id":"e7e37326-0297-45e6-9d1d-bb82e1a79c02","name":"Dipti Test","maps":[{"id":2246043,"name":"Map 1","mapType":"IntegrationServicesAdvancedMessageMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8425?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-09T11:29:22.083Z","sha":"e49a5bddf9c0392288ce1a46fa8e4ab9f16e79dc"}]},{"id":"9cbd2977-b8b3-4e60-b823-581adb31f5a7","name":"New Solution","maps":[{"id":2278179,"name":"Map 1","mapType":"IntegrationServicesAdvancedMap","eventUrl":null,"lastModified":"2018-10-09T12:08:28.53Z","sha":"e49a5bddf9c0392288ce1a46fa8e4ab9f16e79dc"}]}]},{"orgName":"EF Lang Tech - DEV  - EFCOM - SF","solutions":[{"id":"cf4cf13f-2537-40b3-ab33-5319a6a79a34","name":"BTN Test","maps":[{"id":2283028,"name":"Add mpk based on available customer's mpk ids","mapType":"IntegrationServicesAdvancedMap","eventUrl":null,"lastModified":"2018-10-09T12:48:05.587Z","sha":"de93869c2576e0efff54be49c69ca437041a37a5"}]}]},{"orgName":"EF Lang Tech - DEV  - EFCOM - SF","solutions":[{"id":"9992fdd2-5314-44dd-b8b3-ba0bf64a40bd","name":"BTN Test event","maps":[{"id":2283052,"name":"Map 0","mapType":"IntegrationServicesAdvancedRequestResponseMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/requests/8521?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-10T04:59:34.033Z","sha":"3edc39eec81e5c55450d67ce657d4e7000257655"}]},{"id":"ba54b14b-65b4-4d38-b0d3-45fe0733d155","name":"CustomConnector","maps":[{"id":2233466,"name":"Map 0","mapType":"IntegrationServicesAdvancedMessageMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8408?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-10T05:04:05.273Z","sha":"3edc39eec81e5c55450d67ce657d4e7000257655"}]},{"id":"425c0347-2ff9-4c8c-ba23-1730f2abc89f","name":"Delete Sales Office","maps":[{"id":1868028,"name":"Map 0","mapType":"IntegrationServicesAdvancedMap","eventUrl":null,"lastModified":"2018-10-09T10:44:01.23Z","sha":"3edc39eec81e5c55450d67ce657d4e7000257655"}]},{"id":"e7e37326-0297-45e6-9d1d-bb82e1a79c02","name":"Dipti Test","maps":[{"id":2233707,"name":"Map 0","mapType":"IntegrationServicesAdvancedMessageMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8412?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-09T11:29:16.067Z","sha":"3edc39eec81e5c55450d67ce657d4e7000257655"}]},{"id":"9cbd2977-b8b3-4e60-b823-581adb31f5a7","name":"New Solution","maps":[{"id":2278147,"name":"Map 0","mapType":"IntegrationServicesAdvancedMap","eventUrl":null,"lastModified":"2018-10-09T12:08:11.747Z","sha":"3edc39eec81e5c55450d67ce657d4e7000257655"}]},{"id":"42583938-3330-469f-8271-0bbf18ee9a35","name":"QueueRoutingConfig Insert and Return ID toSF","maps":[{"id":1850571,"name":"Map 0","mapType":"IntegrationServicesAdvancedRequestResponseMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/requests/7233?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-09T12:26:14.817Z","sha":"3edc39eec81e5c55450d67ce657d4e7000257655"}]},{"id":"de3a05bd-28ee-4018-9830-7d47d6e37c24","name":"Sent Event","maps":[{"id":1754497,"name":"Map 0","mapType":"IntegrationServicesAdvancedMap","eventUrl":null,"lastModified":"2018-10-09T12:28:07.47Z","sha":"3edc39eec81e5c55450d67ce657d4e7000257655"}]}]},{"orgName":"EF Lang Tech - DEV  - EFCOM - SF","solutions":[{"id":"f707dd23-e6c4-4c12-bb34-3d02b1270fac","name":"A Sitecore_SF_Salesoffice","maps":[{"id":1913403,"name":"Map 1","mapType":"IntegrationServicesAdvancedMessageMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/7376?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-10T10:33:21.553Z","sha":"e49a5bddf9c0392288ce1a46fa8e4ab9f16e79dc"}]},{"id":"9992fdd2-5314-44dd-b8b3-ba0bf64a40bd","name":"BTN Test event","maps":[{"id":2297748,"name":"Map 1","mapType":"IntegrationServicesAdvancedMessageMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8533?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-10T11:25:44.63Z","sha":"e49a5bddf9c0392288ce1a46fa8e4ab9f16e79dc"}]},{"id":"e7e37326-0297-45e6-9d1d-bb82e1a79c02","name":"Dipti Test","maps":[{"id":2246043,"name":"Map 1","mapType":"IntegrationServicesAdvancedMessageMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8425?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-09T11:29:22.083Z","sha":"e49a5bddf9c0392288ce1a46fa8e4ab9f16e79dc"}]},{"id":"9cbd2977-b8b3-4e60-b823-581adb31f5a7","name":"New Solution","maps":[{"id":2278179,"name":"Map 1","mapType":"IntegrationServicesAdvancedMap","eventUrl":null,"lastModified":"2018-10-09T12:08:28.53Z","sha":"e49a5bddf9c0392288ce1a46fa8e4ab9f16e79dc"}]}]},{"orgName":"EF Lang Tech - DEV  - EFCOM - SF","solutions":[{"id":"9992fdd2-5314-44dd-b8b3-ba0bf64a40bd","name":"BTN Test event","maps":[{"id":2283052,"name":"Map 0","mapType":"IntegrationServicesAdvancedRequestResponseMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/requests/8521?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-10T04:59:34.033Z","sha":"3edc39eec81e5c55450d67ce657d4e7000257655"}]},{"id":"ba54b14b-65b4-4d38-b0d3-45fe0733d155","name":"CustomConnector","maps":[{"id":2233466,"name":"Map 0","mapType":"IntegrationServicesAdvancedMessageMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8408?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-10T05:04:05.273Z","sha":"3edc39eec81e5c55450d67ce657d4e7000257655"}]},{"id":"425c0347-2ff9-4c8c-ba23-1730f2abc89f","name":"Delete Sales Office","maps":[{"id":1868028,"name":"Map 0","mapType":"IntegrationServicesAdvancedMap","eventUrl":null,"lastModified":"2018-10-09T10:44:01.23Z","sha":"3edc39eec81e5c55450d67ce657d4e7000257655"}]},{"id":"e7e37326-0297-45e6-9d1d-bb82e1a79c02","name":"Dipti Test","maps":[{"id":2233707,"name":"Map 0","mapType":"IntegrationServicesAdvancedMessageMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8412?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-09T11:29:16.067Z","sha":"3edc39eec81e5c55450d67ce657d4e7000257655"}]},{"id":"9cbd2977-b8b3-4e60-b823-581adb31f5a7","name":"New Solution","maps":[{"id":2278147,"name":"Map 0","mapType":"IntegrationServicesAdvancedMap","eventUrl":null,"lastModified":"2018-10-09T12:08:11.747Z","sha":"3edc39eec81e5c55450d67ce657d4e7000257655"}]},{"id":"42583938-3330-469f-8271-0bbf18ee9a35","name":"QueueRoutingConfig Insert and Return ID toSF","maps":[{"id":1850571,"name":"Map 0","mapType":"IntegrationServicesAdvancedRequestResponseMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/requests/7233?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-09T12:26:14.817Z","sha":"3edc39eec81e5c55450d67ce657d4e7000257655"}]},{"id":"de3a05bd-28ee-4018-9830-7d47d6e37c24","name":"Sent Event","maps":[{"id":1754497,"name":"Map 0","mapType":"IntegrationServicesAdvancedMap","eventUrl":null,"lastModified":"2018-10-09T12:28:07.47Z","sha":"3edc39eec81e5c55450d67ce657d4e7000257655"}]}]},{"orgName":"EF Lang Tech - DEV  - EFCOM - SF","solutions":[{"id":"9992fdd2-5314-44dd-b8b3-ba0bf64a40bd","name":"BTN Test event","maps":[{"id":2283052,"name":"Map 0","mapType":"IntegrationServicesAdvancedRequestResponseMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/requests/8521?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-10T04:59:34.033Z","sha":"3edc39eec81e5c55450d67ce657d4e7000257655"}]},{"id":"ba54b14b-65b4-4d38-b0d3-45fe0733d155","name":"CustomConnector","maps":[{"id":2233466,"name":"Map 0","mapType":"IntegrationServicesAdvancedMessageMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8408?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-10T05:04:05.273Z","sha":"3edc39eec81e5c55450d67ce657d4e7000257655"}]},{"id":"425c0347-2ff9-4c8c-ba23-1730f2abc89f","name":"Delete Sales Office","maps":[{"id":1868028,"name":"Map 0","mapType":"IntegrationServicesAdvancedMap","eventUrl":null,"lastModified":"2018-10-09T10:44:01.23Z","sha":"3edc39eec81e5c55450d67ce657d4e7000257655"}]},{"id":"e7e37326-0297-45e6-9d1d-bb82e1a79c02","name":"Dipti Test","maps":[{"id":2233707,"name":"Map 0","mapType":"IntegrationServicesAdvancedMessageMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8412?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-09T11:29:16.067Z","sha":"3edc39eec81e5c55450d67ce657d4e7000257655"}]},{"id":"9cbd2977-b8b3-4e60-b823-581adb31f5a7","name":"New Solution","maps":[{"id":2278147,"name":"Map 0","mapType":"IntegrationServicesAdvancedMap","eventUrl":null,"lastModified":"2018-10-09T12:08:11.747Z","sha":"3edc39eec81e5c55450d67ce657d4e7000257655"}]},{"id":"42583938-3330-469f-8271-0bbf18ee9a35","name":"QueueRoutingConfig Insert and Return ID toSF","maps":[{"id":1850571,"name":"Map 0","mapType":"IntegrationServicesAdvancedRequestResponseMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/requests/7233?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-09T12:26:14.817Z","sha":"3edc39eec81e5c55450d67ce657d4e7000257655"}]},{"id":"de3a05bd-28ee-4018-9830-7d47d6e37c24","name":"Sent Event","maps":[{"id":1754497,"name":"Map 0","mapType":"IntegrationServicesAdvancedMap","eventUrl":null,"lastModified":"2018-10-09T12:28:07.47Z","sha":"3edc39eec81e5c55450d67ce657d4e7000257655"}]}]},{"orgName":"EF Lang Tech - DEV  - EFCOM - SF","solutions":[{"id":"9992fdd2-5314-44dd-b8b3-ba0bf64a40bd","name":"BTN Test event","maps":[{"id":2283052,"name":"Map 0","mapType":"IntegrationServicesAdvancedRequestResponseMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/requests/8521?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-10T04:59:34.033Z","sha":"3edc39eec81e5c55450d67ce657d4e7000257655"}]},{"id":"ba54b14b-65b4-4d38-b0d3-45fe0733d155","name":"CustomConnector","maps":[{"id":2233466,"name":"Map 0","mapType":"IntegrationServicesAdvancedMessageMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8408?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-10T05:04:05.273Z","sha":"3edc39eec81e5c55450d67ce657d4e7000257655"}]},{"id":"425c0347-2ff9-4c8c-ba23-1730f2abc89f","name":"Delete Sales Office","maps":[{"id":1868028,"name":"Map 0","mapType":"IntegrationServicesAdvancedMap","eventUrl":null,"lastModified":"2018-10-09T10:44:01.23Z","sha":"3edc39eec81e5c55450d67ce657d4e7000257655"}]},{"id":"e7e37326-0297-45e6-9d1d-bb82e1a79c02","name":"Dipti Test","maps":[{"id":2233707,"name":"Map 0","mapType":"IntegrationServicesAdvancedMessageMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8412?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-09T11:29:16.067Z","sha":"3edc39eec81e5c55450d67ce657d4e7000257655"}]},{"id":"9cbd2977-b8b3-4e60-b823-581adb31f5a7","name":"New Solution","maps":[{"id":2278147,"name":"Map 0","mapType":"IntegrationServicesAdvancedMap","eventUrl":null,"lastModified":"2018-10-09T12:08:11.747Z","sha":"3edc39eec81e5c55450d67ce657d4e7000257655"}]},{"id":"42583938-3330-469f-8271-0bbf18ee9a35","name":"QueueRoutingConfig Insert and Return ID toSF","maps":[{"id":1850571,"name":"Map 0","mapType":"IntegrationServicesAdvancedRequestResponseMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/requests/7233?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-09T12:26:14.817Z","sha":"3edc39eec81e5c55450d67ce657d4e7000257655"}]},{"id":"de3a05bd-28ee-4018-9830-7d47d6e37c24","name":"Sent Event","maps":[{"id":1754497,"name":"Map 0","mapType":"IntegrationServicesAdvancedMap","eventUrl":null,"lastModified":"2018-10-09T12:28:07.47Z","sha":"3edc39eec81e5c55450d67ce657d4e7000257655"}]}]},{"orgName":"EF Lang Tech - DEV  - EFCOM - SF","solutions":[{"id":"f707dd23-e6c4-4c12-bb34-3d02b1270fac","name":"A Sitecore_SF_Salesoffice","maps":[{"id":1913403,"name":"Map 1","mapType":"IntegrationServicesAdvancedMessageMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/7376?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-10T10:33:21.553Z","sha":"e49a5bddf9c0392288ce1a46fa8e4ab9f16e79dc"}]},{"id":"9992fdd2-5314-44dd-b8b3-ba0bf64a40bd","name":"BTN Test event","maps":[{"id":2297748,"name":"Map 1","mapType":"IntegrationServicesAdvancedMessageMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8533?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-10T11:25:44.63Z","sha":"e49a5bddf9c0392288ce1a46fa8e4ab9f16e79dc"}]},{"id":"e7e37326-0297-45e6-9d1d-bb82e1a79c02","name":"Dipti Test","maps":[{"id":2246043,"name":"Map 1","mapType":"IntegrationServicesAdvancedMessageMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8425?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-09T11:29:22.083Z","sha":"e49a5bddf9c0392288ce1a46fa8e4ab9f16e79dc"}]},{"id":"9cbd2977-b8b3-4e60-b823-581adb31f5a7","name":"New Solution","maps":[{"id":2278179,"name":"Map 1","mapType":"IntegrationServicesAdvancedMap","eventUrl":null,"lastModified":"2018-10-09T12:08:28.53Z","sha":"e49a5bddf9c0392288ce1a46fa8e4ab9f16e79dc"}]}]},{"orgName":"EF Lang Tech - DEV  - EFCOM - SF","solutions":[{"id":"b89fb4d5-4cd2-449e-a95c-83297b8a01c7","name":"DWH_To_SF_Happy Calls_Booking","maps":[{"id":1582477,"name":"Happy Calls Map","mapType":"IntegrationServicesAdvancedMap","eventUrl":null,"lastModified":"2018-10-09T11:28:42.63Z","sha":"ae2523f659ff5691f1ce895ca20f9271a0394400"}]}]},{"orgName":"EF Lang Tech - DEV  - EFCOM - SF","solutions":[{"id":"75766130-b9cb-4224-be81-62c7358834d3","name":"DWtoSF.Ranking","maps":[{"id":1111960,"name":"mapLeadRanking","mapType":"IntegrationServicesAdvancedMap","eventUrl":null,"lastModified":"2018-10-09T11:28:26.45Z","sha":"7d1db51a653e2b9e448c1fbc68825ade992f6452"}]}]},{"orgName":"EF Lang Tech - DEV  - EFCOM - SF","solutions":[{"id":"75766130-b9cb-4224-be81-62c7358834d3","name":"DWtoSF.Ranking","maps":[{"id":1111965,"name":"mapOpportunityRanking","mapType":"IntegrationServicesAdvancedMap","eventUrl":null,"lastModified":"2018-10-09T11:28:20.01Z","sha":"ff1425196ee9ca177469a3e754f51d715ae50cd4"}]}]},{"orgName":"EF Lang Tech - DEV  - EFCOM - SF","solutions":[{"id":"763cd10f-9d42-4923-89ab-841f65faa8e9","name":"EFCom_SF_WFS","maps":[{"id":1809922,"name":"MapWFSToLead","mapType":"IntegrationServicesAdvancedMap","eventUrl":null,"lastModified":"2018-10-15T09:04:16.367Z","sha":"bc24efb0e6f91ee9d4fd660d0d8495ee6cbfafab"}]}]},{"orgName":"EF Lang Tech - DEV  - EFCOM - SF","solutions":[{"id":"e661aafc-ca69-4f0d-8dc8-197b38138ee5","name":"Flora_SF_User","maps":[{"id":1608977,"name":"mapFloraUserSync","mapType":"IntegrationServicesAdvancedRequestResponseMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/requests/6423?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-10T05:16:43.15Z","sha":"f2af64c40462f1a0d687b7d9e3e7b8e589e8beaf"}]}]},{"orgName":"EF Lang Tech - DEV  - EFCOM - SF","solutions":[{"id":"0839efa6-118f-46fc-b5db-99bacf44f1aa","name":"ILC SF - EF.COM School Integration","maps":[{"id":1906848,"name":"School Map to EF.Com","mapType":"IntegrationServicesAdvancedMessageMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/7378?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-10T10:34:39.163Z","sha":"f558b23a0dddb3c1f10d5060abd078038d87a468"}]}]},{"orgName":"EF Lang Tech - DEV  - EFCOM - SF","solutions":[{"id":"291da548-7266-4d34-a189-adc70a49e291","name":"ILC SF - IA SF _ School Integration","maps":[{"id":1802560,"name":"School_Map","mapType":"IntegrationServicesAdvancedMessageMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/7126?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-09T11:44:06.89Z","sha":"bdf28c16fcff12a9f238a3c5370d189312a8b3f2"}]}]},{"orgName":"EF Lang Tech - DEV  - EFCOM - SF","solutions":[{"id":"53908265-2cd8-445d-a1eb-e40373ea5124","name":"ILC SF - Poseidon_ School Integration","maps":[{"id":1906783,"name":"SF to Poseidon","mapType":"IntegrationServicesAdvancedMessageMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/7365?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-09T11:45:12.823Z","sha":"e19c46757c998751d754960fa11a222fe5363c24"}]}]},{"orgName":"EF Lang Tech - DEV  - EFCOM - SF","solutions":[{"id":"6f2c5ebe-f832-4731-a5f5-96e4ff23448b","name":"ILC SF_Poseidon_Company","maps":[{"id":1888031,"name":"mapOrganizationAccounts","mapType":"IntegrationServicesAdvancedMessageMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/7325?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-09T12:54:23.087Z","sha":"3f90dafe60dce7a463eb305df23c5ffcf1600626"}]}]},{"orgName":"EF Lang Tech - DEV  - EFCOM - SF","solutions":[{"id":"1f2096fb-305f-4ce9-8706-26b3b5cb4c5d","name":"MyEF_SF_Ambassador","maps":[{"id":1719676,"name":"MyEF_SF_Ambassador_map","mapType":"IntegrationServicesAdvancedRequestResponseMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/requests/6793?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-09T11:46:54.293Z","sha":"044f144aa634cf41bd51496729e8e5042116b496"}]}]},{"orgName":"EF Lang Tech - DEV  - EFCOM - SF","solutions":[{"id":"637494fa-2339-431e-9952-13aa44c0c20e","name":"MyEFPlanner-SF","maps":[{"id":2162944,"name":"Opportunity","mapType":"IntegrationServicesAdvancedRequestResponseMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/requests/8167?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-11T06:39:46.737Z","sha":"5b99cabd50ae2cd9ac98ed496c7098074a2a49fd"}]}]},{"orgName":"EF Lang Tech - DEV  - EFCOM - SF","solutions":[{"id":"637494fa-2339-431e-9952-13aa44c0c20e","name":"MyEFPlanner-SF","maps":[{"id":2162979,"name":"CampaignMember","mapType":"IntegrationServicesAdvancedRequestResponseMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/requests/8168?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-11T06:39:46.737Z","sha":"21f44dd5011fc620e38dc0aaece8faabfb8d48da"}]},{"id":"9216dd8c-d23a-4bd7-b716-0174834e0f29","name":"SF-MyEFPlanner","maps":[{"id":2156647,"name":"CampaignMember","mapType":"IntegrationServicesAdvancedMessageMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8136?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-12T10:25:52.007Z","sha":"21f44dd5011fc620e38dc0aaece8faabfb8d48da"}]}]},{"orgName":"EF Lang Tech - DEV  - EFCOM - SF","solutions":[{"id":"637494fa-2339-431e-9952-13aa44c0c20e","name":"MyEFPlanner-SF","maps":[{"id":2162995,"name":"NoteMigration","mapType":"IntegrationServicesAdvancedRequestResponseMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/requests/8169?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-11T06:39:46.737Z","sha":"34a6d552575620eaa9a1c8076ecb9c9b1eafbd8f"}]}]},{"orgName":"EF Lang Tech - DEV  - EFCOM - SF","solutions":[{"id":"637494fa-2339-431e-9952-13aa44c0c20e","name":"MyEFPlanner-SF","maps":[{"id":2175145,"name":"Event","mapType":"IntegrationServicesAdvancedRequestResponseMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/requests/8192?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-12T13:04:27.127Z","sha":"9604cbb9817445735db7a51cc651b7b42ef557bb"}]}]},{"orgName":"EF Lang Tech - DEV  - EFCOM - SF","solutions":[{"id":"637494fa-2339-431e-9952-13aa44c0c20e","name":"MyEFPlanner-SF","maps":[{"id":2311868,"name":"Event with Quote","mapType":"IntegrationServicesAdvancedRequestResponseMap","eventUrl":null,"lastModified":"2018-10-12T12:59:19.66Z","sha":"d5e5b6042764f45eda6cee4346e8d5376e4f5f0f"}]}]},{"orgName":"EF Lang Tech - DEV  - EFCOM - SF","solutions":[{"id":"9992fdd2-5314-44dd-b8b3-ba0bf64a40bd","name":"BTN Test event","maps":[{"id":2283052,"name":"Map 0","mapType":"IntegrationServicesAdvancedRequestResponseMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/requests/8521?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-10T04:59:34.033Z","sha":"3edc39eec81e5c55450d67ce657d4e7000257655"}]},{"id":"ba54b14b-65b4-4d38-b0d3-45fe0733d155","name":"CustomConnector","maps":[{"id":2233466,"name":"Map 0","mapType":"IntegrationServicesAdvancedMessageMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8408?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-10T05:04:05.273Z","sha":"3edc39eec81e5c55450d67ce657d4e7000257655"}]},{"id":"425c0347-2ff9-4c8c-ba23-1730f2abc89f","name":"Delete Sales Office","maps":[{"id":1868028,"name":"Map 0","mapType":"IntegrationServicesAdvancedMap","eventUrl":null,"lastModified":"2018-10-09T10:44:01.23Z","sha":"3edc39eec81e5c55450d67ce657d4e7000257655"}]},{"id":"e7e37326-0297-45e6-9d1d-bb82e1a79c02","name":"Dipti Test","maps":[{"id":2233707,"name":"Map 0","mapType":"IntegrationServicesAdvancedMessageMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8412?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-09T11:29:16.067Z","sha":"3edc39eec81e5c55450d67ce657d4e7000257655"}]},{"id":"9cbd2977-b8b3-4e60-b823-581adb31f5a7","name":"New Solution","maps":[{"id":2278147,"name":"Map 0","mapType":"IntegrationServicesAdvancedMap","eventUrl":null,"lastModified":"2018-10-09T12:08:11.747Z","sha":"3edc39eec81e5c55450d67ce657d4e7000257655"}]},{"id":"42583938-3330-469f-8271-0bbf18ee9a35","name":"QueueRoutingConfig Insert and Return ID toSF","maps":[{"id":1850571,"name":"Map 0","mapType":"IntegrationServicesAdvancedRequestResponseMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/requests/7233?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-09T12:26:14.817Z","sha":"3edc39eec81e5c55450d67ce657d4e7000257655"}]},{"id":"de3a05bd-28ee-4018-9830-7d47d6e37c24","name":"Sent Event","maps":[{"id":1754497,"name":"Map 0","mapType":"IntegrationServicesAdvancedMap","eventUrl":null,"lastModified":"2018-10-09T12:28:07.47Z","sha":"3edc39eec81e5c55450d67ce657d4e7000257655"}]}]},{"orgName":"EF Lang Tech - DEV  - EFCOM - SF","solutions":[{"id":"f707dd23-e6c4-4c12-bb34-3d02b1270fac","name":"A Sitecore_SF_Salesoffice","maps":[{"id":1913403,"name":"Map 1","mapType":"IntegrationServicesAdvancedMessageMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/7376?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-10T10:33:21.553Z","sha":"e49a5bddf9c0392288ce1a46fa8e4ab9f16e79dc"}]},{"id":"9992fdd2-5314-44dd-b8b3-ba0bf64a40bd","name":"BTN Test event","maps":[{"id":2297748,"name":"Map 1","mapType":"IntegrationServicesAdvancedMessageMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8533?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-10T11:25:44.63Z","sha":"e49a5bddf9c0392288ce1a46fa8e4ab9f16e79dc"}]},{"id":"e7e37326-0297-45e6-9d1d-bb82e1a79c02","name":"Dipti Test","maps":[{"id":2246043,"name":"Map 1","mapType":"IntegrationServicesAdvancedMessageMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8425?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-09T11:29:22.083Z","sha":"e49a5bddf9c0392288ce1a46fa8e4ab9f16e79dc"}]},{"id":"9cbd2977-b8b3-4e60-b823-581adb31f5a7","name":"New Solution","maps":[{"id":2278179,"name":"Map 1","mapType":"IntegrationServicesAdvancedMap","eventUrl":null,"lastModified":"2018-10-09T12:08:28.53Z","sha":"e49a5bddf9c0392288ce1a46fa8e4ab9f16e79dc"}]}]},{"orgName":"EF Lang Tech - DEV  - EFCOM - SF","solutions":[{"id":"bcdddc5f-e3d4-4226-8c60-f9b0deeb7c83","name":"New2","maps":[{"id":2234356,"name":"new","mapType":"IntegrationServicesAdvancedMessageMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8413?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-09-27T12:30:36.94Z","sha":"3f47e08ffe0906245aefb124e7685a40c0f5ab05"}]}]},{"orgName":"EF Lang Tech - DEV  - EFCOM - SF","solutions":[{"id":"38c625d0-3c42-45aa-8846-45e1aa075c07","name":"Poseidon_SF_GoalSalesStat","maps":[{"id":1584490,"name":"mapGoalSalesStat","mapType":"IntegrationServicesAdvancedMap","eventUrl":null,"lastModified":"2018-10-09T12:19:28.707Z","sha":"acf085a54942028d727c949ed2a6fffe6104eb63"}]}]},{"orgName":"EF Lang Tech - DEV  - EFCOM - SF","solutions":[{"id":"38c625d0-3c42-45aa-8846-45e1aa075c07","name":"Poseidon_SF_GoalSalesStat","maps":[{"id":1676678,"name":"Delete SalesStat","mapType":"IntegrationServicesAdvancedMap","eventUrl":null,"lastModified":"2018-10-09T12:19:35.55Z","sha":"cbc8c5f3ef39c0da4705ed6435a45cbae12651f4"}]}]},{"orgName":"EF Lang Tech - DEV  - EFCOM - SF","solutions":[{"id":"101ec702-aed1-4316-9fcf-5bc2a74cac6c","name":"Poseidon_SF_SourceCode","maps":[{"id":1288017,"name":"mapSourceCode","mapType":"IntegrationServicesAdvancedMap","eventUrl":null,"lastModified":"2018-10-09T12:19:55.923Z","sha":"d1a3c72b8180defa2b8ce33ee841174cad1c2b73"}]}]},{"orgName":"EF Lang Tech - DEV  - EFCOM - SF","solutions":[{"id":"101ec702-aed1-4316-9fcf-5bc2a74cac6c","name":"Poseidon_SF_SourceCode","maps":[{"id":1108542,"name":"Delete All Salesforce Sources","mapType":"IntegrationServicesAdvancedMap","eventUrl":null,"lastModified":"2018-10-09T12:20:12.347Z","sha":"4a3de9d3c5263f34969d08271b211b665e33daf7"}]}]},{"orgName":"EF Lang Tech - DEV  - EFCOM - SF","solutions":[{"id":"a1b2a242-8e53-4f39-bb9b-c24a41d53de9","name":"PosToSF_BookingInfo","maps":[{"id":1526879,"name":"Poseidon_SF_Booking_Map","mapType":"IntegrationServicesAdvancedRequestResponseMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/requests/6247?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-09T12:23:11.19Z","sha":"9c920a48f0ab3e7534cdef59e65be1e0779f4e79"}]}]},{"orgName":"EF Lang Tech - DEV  - EFCOM - SF","solutions":[{"id":"c98f1e9c-53b5-4269-b55d-dcf649b4fec7","name":"PosToSF_Quote","maps":[{"id":1526877,"name":"mapPosToSFQuote","mapType":"IntegrationServicesAdvancedRequestResponseMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/requests/6248?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-09T12:24:24.863Z","sha":"a4d50f3bc8c7aa711889bc2a41dce50b19cd6c05"}]}]},{"orgName":"EF Lang Tech - DEV  - EFCOM - SF","solutions":[{"id":"2d820820-4909-499d-b2a2-6a51fe913618","name":"PosToSF_UpdatePosCustomerID","maps":[{"id":1526873,"name":"mapPosCustomerIdUpdate","mapType":"IntegrationServicesAdvancedRequestResponseMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/requests/6246?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-09T09:49:19.437Z","sha":"eb15ba2a2cde896fd752a1e41ef4c58a04467dc3"}]}]},{"orgName":"EF Lang Tech - DEV  - EFCOM - SF","solutions":[{"id":"b08b586d-8ae2-4368-a6f6-b4f0e4fabf7d","name":"ProcessScribeErrors","maps":[{"id":1163873,"name":"mapScribeErrors","mapType":"IntegrationServicesAdvancedMap","eventUrl":null,"lastModified":"2018-09-26T05:00:00.403Z","sha":"47fd075bf849b7971af22565b30ba349aafec39b"}]}]},{"orgName":"EF Lang Tech - DEV  - EFCOM - SF","solutions":[{"id":"9992fdd2-5314-44dd-b8b3-ba0bf64a40bd","name":"BTN Test event","maps":[{"id":2283052,"name":"Map 0","mapType":"IntegrationServicesAdvancedRequestResponseMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/requests/8521?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-10T04:59:34.033Z","sha":"3edc39eec81e5c55450d67ce657d4e7000257655"}]},{"id":"ba54b14b-65b4-4d38-b0d3-45fe0733d155","name":"CustomConnector","maps":[{"id":2233466,"name":"Map 0","mapType":"IntegrationServicesAdvancedMessageMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8408?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-10T05:04:05.273Z","sha":"3edc39eec81e5c55450d67ce657d4e7000257655"}]},{"id":"425c0347-2ff9-4c8c-ba23-1730f2abc89f","name":"Delete Sales Office","maps":[{"id":1868028,"name":"Map 0","mapType":"IntegrationServicesAdvancedMap","eventUrl":null,"lastModified":"2018-10-09T10:44:01.23Z","sha":"3edc39eec81e5c55450d67ce657d4e7000257655"}]},{"id":"e7e37326-0297-45e6-9d1d-bb82e1a79c02","name":"Dipti Test","maps":[{"id":2233707,"name":"Map 0","mapType":"IntegrationServicesAdvancedMessageMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8412?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-09T11:29:16.067Z","sha":"3edc39eec81e5c55450d67ce657d4e7000257655"}]},{"id":"9cbd2977-b8b3-4e60-b823-581adb31f5a7","name":"New Solution","maps":[{"id":2278147,"name":"Map 0","mapType":"IntegrationServicesAdvancedMap","eventUrl":null,"lastModified":"2018-10-09T12:08:11.747Z","sha":"3edc39eec81e5c55450d67ce657d4e7000257655"}]},{"id":"42583938-3330-469f-8271-0bbf18ee9a35","name":"QueueRoutingConfig Insert and Return ID toSF","maps":[{"id":1850571,"name":"Map 0","mapType":"IntegrationServicesAdvancedRequestResponseMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/requests/7233?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-09T12:26:14.817Z","sha":"3edc39eec81e5c55450d67ce657d4e7000257655"}]},{"id":"de3a05bd-28ee-4018-9830-7d47d6e37c24","name":"Sent Event","maps":[{"id":1754497,"name":"Map 0","mapType":"IntegrationServicesAdvancedMap","eventUrl":null,"lastModified":"2018-10-09T12:28:07.47Z","sha":"3edc39eec81e5c55450d67ce657d4e7000257655"}]}]},{"orgName":"EF Lang Tech - DEV  - EFCOM - SF","solutions":[{"id":"da7103a2-fb1a-4d4f-b739-7ab890c2232e","name":"REST POC","maps":[{"id":1272985,"name":"RestMap","mapType":"IntegrationServicesAdvancedMap","eventUrl":null,"lastModified":"2018-10-09T12:27:16.003Z","sha":"ae5b010f179c8ec22bbf3162cb57d7223878f134"}]}]},{"orgName":"EF Lang Tech - DEV  - EFCOM - SF","solutions":[{"id":"9992fdd2-5314-44dd-b8b3-ba0bf64a40bd","name":"BTN Test event","maps":[{"id":2283052,"name":"Map 0","mapType":"IntegrationServicesAdvancedRequestResponseMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/requests/8521?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-10T04:59:34.033Z","sha":"3edc39eec81e5c55450d67ce657d4e7000257655"}]},{"id":"ba54b14b-65b4-4d38-b0d3-45fe0733d155","name":"CustomConnector","maps":[{"id":2233466,"name":"Map 0","mapType":"IntegrationServicesAdvancedMessageMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8408?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-10T05:04:05.273Z","sha":"3edc39eec81e5c55450d67ce657d4e7000257655"}]},{"id":"425c0347-2ff9-4c8c-ba23-1730f2abc89f","name":"Delete Sales Office","maps":[{"id":1868028,"name":"Map 0","mapType":"IntegrationServicesAdvancedMap","eventUrl":null,"lastModified":"2018-10-09T10:44:01.23Z","sha":"3edc39eec81e5c55450d67ce657d4e7000257655"}]},{"id":"e7e37326-0297-45e6-9d1d-bb82e1a79c02","name":"Dipti Test","maps":[{"id":2233707,"name":"Map 0","mapType":"IntegrationServicesAdvancedMessageMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8412?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-09T11:29:16.067Z","sha":"3edc39eec81e5c55450d67ce657d4e7000257655"}]},{"id":"9cbd2977-b8b3-4e60-b823-581adb31f5a7","name":"New Solution","maps":[{"id":2278147,"name":"Map 0","mapType":"IntegrationServicesAdvancedMap","eventUrl":null,"lastModified":"2018-10-09T12:08:11.747Z","sha":"3edc39eec81e5c55450d67ce657d4e7000257655"}]},{"id":"42583938-3330-469f-8271-0bbf18ee9a35","name":"QueueRoutingConfig Insert and Return ID toSF","maps":[{"id":1850571,"name":"Map 0","mapType":"IntegrationServicesAdvancedRequestResponseMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/requests/7233?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-09T12:26:14.817Z","sha":"3edc39eec81e5c55450d67ce657d4e7000257655"}]},{"id":"de3a05bd-28ee-4018-9830-7d47d6e37c24","name":"Sent Event","maps":[{"id":1754497,"name":"Map 0","mapType":"IntegrationServicesAdvancedMap","eventUrl":null,"lastModified":"2018-10-09T12:28:07.47Z","sha":"3edc39eec81e5c55450d67ce657d4e7000257655"}]}]},{"orgName":"EF Lang Tech - DEV  - EFCOM - SF","solutions":[{"id":"3003e060-70f7-4d47-ae9e-0a474132be38","name":"SF_Flora_UserIDs","maps":[{"id":1870295,"name":"updateSFIds","mapType":"IntegrationServicesAdvancedMap","eventUrl":null,"lastModified":"2018-08-03T15:52:04.503Z","sha":"0f033f7ea2ddb36b9988201a5582360fe014a96f"}]}]},{"orgName":"EF Lang Tech - DEV  - EFCOM - SF","solutions":[{"id":"84e06982-6104-4a20-b99a-6cd19b9bcbc3","name":"SF_SalesCenter_Records","maps":[{"id":2109020,"name":"Imported - mapAccount","mapType":"IntegrationServicesAdvancedMessageMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/7940?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-08-30T10:12:33.04Z","sha":"03507d11cb0c8d6bbb76011d020b701dc3420f6a"}]}]},{"orgName":"EF Lang Tech - DEV  - EFCOM - SF","solutions":[{"id":"84e06982-6104-4a20-b99a-6cd19b9bcbc3","name":"SF_SalesCenter_Records","maps":[{"id":2109021,"name":"Imported - mapOpportunity","mapType":"IntegrationServicesAdvancedMessageMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/7941?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-08-30T10:14:07.917Z","sha":"d8fe11f370ff9c4d32525bf74fb3b1f1427044ae"}]}]},{"orgName":"EF Lang Tech - DEV  - EFCOM - SF","solutions":[{"id":"9216dd8c-d23a-4bd7-b716-0174834e0f29","name":"SF-MyEFPlanner","maps":[{"id":2135614,"name":"Account","mapType":"IntegrationServicesAdvancedMessageMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8070?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-12T10:25:52.007Z","sha":"d81716a0b0c831d50c1094b4d6068c4b3af27dfe"}]}]},{"orgName":"EF Lang Tech - DEV  - EFCOM - SF","solutions":[{"id":"9216dd8c-d23a-4bd7-b716-0174834e0f29","name":"SF-MyEFPlanner","maps":[{"id":2142024,"name":"Opporunity","mapType":"IntegrationServicesAdvancedMessageMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8093?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-12T10:25:52.007Z","sha":"4729652e00303c14629656f891fb35fca3be578b"}]}]},{"orgName":"EF Lang Tech - DEV  - EFCOM - SF","solutions":[{"id":"9216dd8c-d23a-4bd7-b716-0174834e0f29","name":"SF-MyEFPlanner","maps":[{"id":2142049,"name":"Quote","mapType":"IntegrationServicesAdvancedMessageMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8094?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-12T10:25:52.007Z","sha":"826e4afaa49bc462265d69a176fbd0d06be8e68b"}]}]},{"orgName":"EF Lang Tech - DEV  - EFCOM - SF","solutions":[{"id":"9216dd8c-d23a-4bd7-b716-0174834e0f29","name":"SF-MyEFPlanner","maps":[{"id":2142429,"name":"User","mapType":"IntegrationServicesAdvancedMessageMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8098?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-12T10:25:52.007Z","sha":"cb6b581b33bd90a3061a152dd37784247ed36d56"}]}]},{"orgName":"EF Lang Tech - DEV  - EFCOM - SF","solutions":[{"id":"637494fa-2339-431e-9952-13aa44c0c20e","name":"MyEFPlanner-SF","maps":[{"id":2162979,"name":"CampaignMember","mapType":"IntegrationServicesAdvancedRequestResponseMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/requests/8168?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-11T06:39:46.737Z","sha":"21f44dd5011fc620e38dc0aaece8faabfb8d48da"}]},{"id":"9216dd8c-d23a-4bd7-b716-0174834e0f29","name":"SF-MyEFPlanner","maps":[{"id":2156647,"name":"CampaignMember","mapType":"IntegrationServicesAdvancedMessageMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8136?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-12T10:25:52.007Z","sha":"21f44dd5011fc620e38dc0aaece8faabfb8d48da"}]}]},{"orgName":"EF Lang Tech - DEV  - EFCOM - SF","solutions":[{"id":"9216dd8c-d23a-4bd7-b716-0174834e0f29","name":"SF-MyEFPlanner","maps":[{"id":2156674,"name":"SalesOfficePrograms","mapType":"IntegrationServicesAdvancedMessageMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8137?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-12T10:25:52.007Z","sha":"6abe158ceedab5e73a00f25fda0c40791c8d919d"}]}]},{"orgName":"EF Lang Tech - DEV  - EFCOM - SF","solutions":[{"id":"9216dd8c-d23a-4bd7-b716-0174834e0f29","name":"SF-MyEFPlanner","maps":[{"id":2156731,"name":"Campaign","mapType":"IntegrationServicesAdvancedMessageMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8138?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-12T10:25:52.007Z","sha":"70dd47e48ae414df5ef985a072321f184140e4da"}]}]},{"orgName":"EF Lang Tech - DEV  - EFCOM - SF","solutions":[{"id":"9216dd8c-d23a-4bd7-b716-0174834e0f29","name":"SF-MyEFPlanner","maps":[{"id":2156933,"name":"Destination","mapType":"IntegrationServicesAdvancedMessageMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8139?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-10-12T10:25:52.007Z","sha":"48ef09cc1ead50d7e90c8573d8bcf79f524c3d0d"}]}]},{"orgName":"EF Lang Tech - DEV  - EFCOM - SF","solutions":[{"id":"c0bfcccc-21b7-42f5-9053-2986cfed5fc4","name":"SFtoPos_ActiveOpportunitySync","maps":[{"id":1526866,"name":"ActiveOpportunitySync","mapType":"IntegrationServicesAdvancedRequestResponseMap","eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/requests/6456?accesstoken=B693644B-8D85-4568-A146-7851D8E47822","lastModified":"2018-06-05T12:48:46.78Z","sha":"fee1ecd777a96a06e1305d466424d8224990263c"}]}]}]
+[
+   {
+      "orgName":"EF Lang Tech - DEV  - EFCOM - SF",
+      "solutions":[
+         {
+            "id":"f707dd23-e6c4-4c12-bb34-3d02b1270fac",
+            "name":"A Sitecore_SF_Salesoffice",
+            "maps":[
+               {
+                  "id":1913403,
+                  "name":"Map 1",
+                  "mapType":"IntegrationServicesAdvancedMessageMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/7376?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-09T10:33:21.553Z"
+               }
+            ]
+         },
+         {
+            "id":"9992fdd2-5314-44dd-b8b3-ba0bf64a40bd",
+            "name":"BTN Test event",
+            "maps":[
+               {
+                  "id":2297748,
+                  "name":"Map 1",
+                  "mapType":"IntegrationServicesAdvancedMessageMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8533?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-10T11:25:44.63Z"
+               },
+               {
+                  "id":2283052,
+                  "name":"Map 0",
+                  "mapType":"IntegrationServicesAdvancedRequestResponseMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/requests/8521?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-10T04:59:34.033Z"
+               }
+            ]
+         },
+         {
+            "id":"e7e37326-0297-45e6-9d1d-bb82e1a79c02",
+            "name":"Dipti Test",
+            "maps":[
+               {
+                  "id":2246043,
+                  "name":"Map 1",
+                  "mapType":"IntegrationServicesAdvancedMessageMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8425?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-09T11:29:22.083Z"
+               },
+               {
+                  "id":2233707,
+                  "name":"Map 0",
+                  "mapType":"IntegrationServicesAdvancedMessageMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8412?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-09T11:29:16.067Z"
+               }
+            ]
+         },
+         {
+            "id":"9cbd2977-b8b3-4e60-b823-581adb31f5a7",
+            "name":"New Solution",
+            "maps":[
+               {
+                  "id":2278179,
+                  "name":"Map 1",
+                  "mapType":"IntegrationServicesAdvancedMap",
+                  "eventUrl":null,
+                  "lastModified":"2018-10-09T12:08:28.53Z"
+               },
+               {
+                  "id":2278147,
+                  "name":"Map 0",
+                  "mapType":"IntegrationServicesAdvancedMap",
+                  "eventUrl":null,
+                  "lastModified":"2018-10-09T12:08:11.747Z"
+               }
+            ]
+         },
+         {
+            "id":"cf4cf13f-2537-40b3-ab33-5319a6a79a34",
+            "name":"BTN Test",
+            "maps":[
+               {
+                  "id":2283028,
+                  "name":"Add mpk based on available customer's mpk ids",
+                  "mapType":"IntegrationServicesAdvancedMap",
+                  "eventUrl":null,
+                  "lastModified":"2018-10-09T12:48:05.587Z"
+               }
+            ]
+         },
+         {
+            "id":"ba54b14b-65b4-4d38-b0d3-45fe0733d155",
+            "name":"CustomConnector",
+            "maps":[
+               {
+                  "id":2233466,
+                  "name":"Map 0",
+                  "mapType":"IntegrationServicesAdvancedMessageMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8408?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-10T05:04:05.273Z"
+               }
+            ]
+         },
+         {
+            "id":"425c0347-2ff9-4c8c-ba23-1730f2abc89f",
+            "name":"Delete Sales Office",
+            "maps":[
+               {
+                  "id":1868028,
+                  "name":"Map 0",
+                  "mapType":"IntegrationServicesAdvancedMap",
+                  "eventUrl":null,
+                  "lastModified":"2018-10-09T10:44:01.23Z"
+               }
+            ]
+         },
+         {
+            "id":"42583938-3330-469f-8271-0bbf18ee9a35",
+            "name":"QueueRoutingConfig Insert and Return ID toSF",
+            "maps":[
+               {
+                  "id":1850571,
+                  "name":"Map 0",
+                  "mapType":"IntegrationServicesAdvancedRequestResponseMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/requests/7233?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-09T12:26:14.817Z"
+               }
+            ]
+         },
+         {
+            "id":"de3a05bd-28ee-4018-9830-7d47d6e37c24",
+            "name":"Sent Event",
+            "maps":[
+               {
+                  "id":1754497,
+                  "name":"Map 0",
+                  "mapType":"IntegrationServicesAdvancedMap",
+                  "eventUrl":null,
+                  "lastModified":"2018-10-09T12:28:07.47Z"
+               }
+            ]
+         },
+         {
+            "id":"b89fb4d5-4cd2-449e-a95c-83297b8a01c7",
+            "name":"DWH_To_SF_Happy Calls_Booking",
+            "maps":[
+               {
+                  "id":1582477,
+                  "name":"Happy Calls Map",
+                  "mapType":"IntegrationServicesAdvancedMap",
+                  "eventUrl":null,
+                  "lastModified":"2018-10-09T11:28:42.63Z"
+               }
+            ]
+         },
+         {
+            "id":"75766130-b9cb-4224-be81-62c7358834d3",
+            "name":"DWtoSF.Ranking",
+            "maps":[
+               {
+                  "id":1111960,
+                  "name":"mapLeadRanking",
+                  "mapType":"IntegrationServicesAdvancedMap",
+                  "eventUrl":null,
+                  "lastModified":"2018-10-09T11:28:26.45Z"
+               },
+               {
+                  "id":1111965,
+                  "name":"mapOpportunityRanking",
+                  "mapType":"IntegrationServicesAdvancedMap",
+                  "eventUrl":null,
+                  "lastModified":"2018-10-09T11:28:20.01Z"
+               }
+            ]
+         },
+         {
+            "id":"763cd10f-9d42-4923-89ab-841f65faa8e9",
+            "name":"EFCom_SF_WFS",
+            "maps":[
+               {
+                  "id":1809922,
+                  "name":"MapWFSToLead",
+                  "mapType":"IntegrationServicesAdvancedMap",
+                  "eventUrl":null,
+                  "lastModified":"2018-10-15T09:04:16.367Z"
+               }
+            ]
+         },
+         {
+            "id":"e661aafc-ca69-4f0d-8dc8-197b38138ee5",
+            "name":"Flora_SF_User",
+            "maps":[
+               {
+                  "id":1608977,
+                  "name":"mapFloraUserSync",
+                  "mapType":"IntegrationServicesAdvancedRequestResponseMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/requests/6423?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-10T05:16:43.15Z"
+               }
+            ]
+         },
+         {
+            "id":"0839efa6-118f-46fc-b5db-99bacf44f1aa",
+            "name":"ILC SF - EF.COM School Integration",
+            "maps":[
+               {
+                  "id":1906848,
+                  "name":"School Map to EF.Com",
+                  "mapType":"IntegrationServicesAdvancedMessageMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/7378?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-10T10:34:39.163Z"
+               }
+            ]
+         },
+         {
+            "id":"291da548-7266-4d34-a189-adc70a49e291",
+            "name":"ILC SF - IA SF _ School Integration",
+            "maps":[
+               {
+                  "id":1802560,
+                  "name":"School_Map",
+                  "mapType":"IntegrationServicesAdvancedMessageMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/7126?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-09T11:44:06.89Z"
+               }
+            ]
+         },
+         {
+            "id":"53908265-2cd8-445d-a1eb-e40373ea5124",
+            "name":"ILC SF - Poseidon_ School Integration",
+            "maps":[
+               {
+                  "id":1906783,
+                  "name":"SF to Poseidon",
+                  "mapType":"IntegrationServicesAdvancedMessageMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/7365?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-09T11:45:12.823Z"
+               }
+            ]
+         },
+         {
+            "id":"6f2c5ebe-f832-4731-a5f5-96e4ff23448b",
+            "name":"ILC SF_Poseidon_Company",
+            "maps":[
+               {
+                  "id":1888031,
+                  "name":"mapOrganizationAccounts",
+                  "mapType":"IntegrationServicesAdvancedMessageMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/7325?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-09T12:54:23.087Z"
+               }
+            ]
+         },
+         {
+            "id":"1f2096fb-305f-4ce9-8706-26b3b5cb4c5d",
+            "name":"MyEF_SF_Ambassador",
+            "maps":[
+               {
+                  "id":1719676,
+                  "name":"MyEF_SF_Ambassador_map",
+                  "mapType":"IntegrationServicesAdvancedRequestResponseMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/requests/6793?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-09T11:46:54.293Z"
+               }
+            ]
+         },
+         {
+            "id":"637494fa-2339-431e-9952-13aa44c0c20e",
+            "name":"MyEFPlanner-SF",
+            "maps":[
+               {
+                  "id":2162944,
+                  "name":"Opportunity",
+                  "mapType":"IntegrationServicesAdvancedRequestResponseMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/requests/8167?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-11T06:39:46.737Z"
+               },
+               {
+                  "id":2162979,
+                  "name":"CampaignMember",
+                  "mapType":"IntegrationServicesAdvancedRequestResponseMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/requests/8168?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-11T06:39:46.737Z"
+               },
+               {
+                  "id":2162995,
+                  "name":"NoteMigration",
+                  "mapType":"IntegrationServicesAdvancedRequestResponseMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/requests/8169?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-11T06:39:46.737Z"
+               },
+               {
+                  "id":2175145,
+                  "name":"Event",
+                  "mapType":"IntegrationServicesAdvancedRequestResponseMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/requests/8192?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-12T13:04:27.127Z"
+               },
+               {
+                  "id":2311868,
+                  "name":"Event with Quote",
+                  "mapType":"IntegrationServicesAdvancedRequestResponseMap",
+                  "eventUrl":null,
+                  "lastModified":"2018-10-12T12:59:19.66Z"
+               }
+            ]
+         },
+         {
+            "id":"9216dd8c-d23a-4bd7-b716-0174834e0f29",
+            "name":"SF-MyEFPlanner",
+            "maps":[
+               {
+                  "id":2156647,
+                  "name":"CampaignMember",
+                  "mapType":"IntegrationServicesAdvancedMessageMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8136?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-12T10:25:52.007Z"
+               },
+               {
+                  "id":2135614,
+                  "name":"Account",
+                  "mapType":"IntegrationServicesAdvancedMessageMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8070?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-12T10:25:52.007Z"
+               },
+               {
+                  "id":2142024,
+                  "name":"Opporunity",
+                  "mapType":"IntegrationServicesAdvancedMessageMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8093?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-12T10:25:52.007Z"
+               },
+               {
+                  "id":2142049,
+                  "name":"Quote",
+                  "mapType":"IntegrationServicesAdvancedMessageMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8094?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-12T10:25:52.007Z"
+               },
+               {
+                  "id":2142429,
+                  "name":"User",
+                  "mapType":"IntegrationServicesAdvancedMessageMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8098?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-12T10:25:52.007Z"
+               },
+               {
+                  "id":2156674,
+                  "name":"SalesOfficePrograms",
+                  "mapType":"IntegrationServicesAdvancedMessageMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8137?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-12T10:25:52.007Z"
+               },
+               {
+                  "id":2156731,
+                  "name":"Campaign",
+                  "mapType":"IntegrationServicesAdvancedMessageMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8138?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-12T10:25:52.007Z"
+               },
+               {
+                  "id":2156933,
+                  "name":"Destination",
+                  "mapType":"IntegrationServicesAdvancedMessageMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8139?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-12T10:25:52.007Z"
+               }
+            ]
+         },
+         {
+            "id":"bcdddc5f-e3d4-4226-8c60-f9b0deeb7c83",
+            "name":"New2",
+            "maps":[
+               {
+                  "id":2234356,
+                  "name":"new",
+                  "mapType":"IntegrationServicesAdvancedMessageMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8413?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-09-27T12:30:36.94Z"
+               }
+            ]
+         },
+         {
+            "id":"38c625d0-3c42-45aa-8846-45e1aa075c07",
+            "name":"Poseidon_SF_GoalSalesStat",
+            "maps":[
+               {
+                  "id":1584490,
+                  "name":"mapGoalSalesStat",
+                  "mapType":"IntegrationServicesAdvancedMap",
+                  "eventUrl":null,
+                  "lastModified":"2018-10-09T12:19:28.707Z"
+               },
+               {
+                  "id":1676678,
+                  "name":"Delete SalesStat",
+                  "mapType":"IntegrationServicesAdvancedMap",
+                  "eventUrl":null,
+                  "lastModified":"2018-10-09T12:19:35.55Z"
+               }
+            ]
+         },
+         {
+            "id":"101ec702-aed1-4316-9fcf-5bc2a74cac6c",
+            "name":"Poseidon_SF_SourceCode",
+            "maps":[
+               {
+                  "id":1288017,
+                  "name":"mapSourceCode",
+                  "mapType":"IntegrationServicesAdvancedMap",
+                  "eventUrl":null,
+                  "lastModified":"2018-10-09T12:19:55.923Z"
+               },
+               {
+                  "id":1108542,
+                  "name":"Delete All Salesforce Sources",
+                  "mapType":"IntegrationServicesAdvancedMap",
+                  "eventUrl":null,
+                  "lastModified":"2018-10-09T12:20:12.347Z"
+               }
+            ]
+         },
+         {
+            "id":"a1b2a242-8e53-4f39-bb9b-c24a41d53de9",
+            "name":"PosToSF_BookingInfo",
+            "maps":[
+               {
+                  "id":1526879,
+                  "name":"Poseidon_SF_Booking_Map",
+                  "mapType":"IntegrationServicesAdvancedRequestResponseMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/requests/6247?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-09T12:23:11.19Z"
+               }
+            ]
+         },
+         {
+            "id":"c98f1e9c-53b5-4269-b55d-dcf649b4fec7",
+            "name":"PosToSF_Quote",
+            "maps":[
+               {
+                  "id":1526877,
+                  "name":"mapPosToSFQuote",
+                  "mapType":"IntegrationServicesAdvancedRequestResponseMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/requests/6248?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-09T12:24:24.863Z"
+               }
+            ]
+         },
+         {
+            "id":"2d820820-4909-499d-b2a2-6a51fe913618",
+            "name":"PosToSF_UpdatePosCustomerID",
+            "maps":[
+               {
+                  "id":1526873,
+                  "name":"mapPosCustomerIdUpdate",
+                  "mapType":"IntegrationServicesAdvancedRequestResponseMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/requests/6246?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-09T09:49:19.437Z"
+               }
+            ]
+         },
+         {
+            "id":"b08b586d-8ae2-4368-a6f6-b4f0e4fabf7d",
+            "name":"ProcessScribeErrors",
+            "maps":[
+               {
+                  "id":1163873,
+                  "name":"mapScribeErrors",
+                  "mapType":"IntegrationServicesAdvancedMap",
+                  "eventUrl":null,
+                  "lastModified":"2018-09-26T05:00:00.403Z"
+               }
+            ]
+         },
+         {
+            "id":"da7103a2-fb1a-4d4f-b739-7ab890c2232e",
+            "name":"REST POC",
+            "maps":[
+               {
+                  "id":1272985,
+                  "name":"RestMap",
+                  "mapType":"IntegrationServicesAdvancedMap",
+                  "eventUrl":null,
+                  "lastModified":"2018-10-09T12:27:16.003Z"
+               }
+            ]
+         },
+         {
+            "id":"3003e060-70f7-4d47-ae9e-0a474132be38",
+            "name":"SF_Flora_UserIDs",
+            "maps":[
+               {
+                  "id":1870295,
+                  "name":"updateSFIds",
+                  "mapType":"IntegrationServicesAdvancedMap",
+                  "eventUrl":null,
+                  "lastModified":"2018-08-03T15:52:04.503Z"
+               }
+            ]
+         },
+         {
+            "id":"84e06982-6104-4a20-b99a-6cd19b9bcbc3",
+            "name":"SF_SalesCenter_Records",
+            "maps":[
+               {
+                  "id":2109020,
+                  "name":"Imported - mapAccount",
+                  "mapType":"IntegrationServicesAdvancedMessageMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/7940?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-08-30T10:12:33.04Z"
+               },
+               {
+                  "id":2109021,
+                  "name":"Imported - mapOpportunity",
+                  "mapType":"IntegrationServicesAdvancedMessageMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/7941?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-08-30T10:14:07.917Z"
+               }
+            ]
+         },
+         {
+            "id":"c0bfcccc-21b7-42f5-9053-2986cfed5fc4",
+            "name":"SFtoPos_ActiveOpportunitySync",
+            "maps":[
+               {
+                  "id":1526866,
+                  "name":"ActiveOpportunitySync",
+                  "mapType":"IntegrationServicesAdvancedRequestResponseMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/requests/6456?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-06-05T12:48:46.78Z"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "orgName":"EF Lang Tech - DEV  - EFCOM - SF",
+      "solutions":[
+         {
+            "id":"f707dd23-e6c4-4c12-bb34-3d02b1270fac",
+            "name":"A Sitecore_SF_Salesoffice",
+            "maps":[
+               {
+                  "id":1913403,
+                  "name":"Map 1",
+                  "mapType":"IntegrationServicesAdvancedMessageMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/7376?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-10T10:33:21.553Z",
+                  "sha":"e49a5bddf9c0392288ce1a46fa8e4ab9f16e79dc"
+               }
+            ]
+         },
+         {
+            "id":"9992fdd2-5314-44dd-b8b3-ba0bf64a40bd",
+            "name":"BTN Test event",
+            "maps":[
+               {
+                  "id":2297748,
+                  "name":"Map 1",
+                  "mapType":"IntegrationServicesAdvancedMessageMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8533?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-10T11:25:44.63Z",
+                  "sha":"e49a5bddf9c0392288ce1a46fa8e4ab9f16e79dc"
+               }
+            ]
+         },
+         {
+            "id":"e7e37326-0297-45e6-9d1d-bb82e1a79c02",
+            "name":"Dipti Test",
+            "maps":[
+               {
+                  "id":2246043,
+                  "name":"Map 1",
+                  "mapType":"IntegrationServicesAdvancedMessageMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8425?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-09T11:29:22.083Z",
+                  "sha":"e49a5bddf9c0392288ce1a46fa8e4ab9f16e79dc"
+               }
+            ]
+         },
+         {
+            "id":"9cbd2977-b8b3-4e60-b823-581adb31f5a7",
+            "name":"New Solution",
+            "maps":[
+               {
+                  "id":2278179,
+                  "name":"Map 1",
+                  "mapType":"IntegrationServicesAdvancedMap",
+                  "eventUrl":null,
+                  "lastModified":"2018-10-09T12:08:28.53Z",
+                  "sha":"e49a5bddf9c0392288ce1a46fa8e4ab9f16e79dc"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "orgName":"EF Lang Tech - DEV  - EFCOM - SF",
+      "solutions":[
+         {
+            "id":"cf4cf13f-2537-40b3-ab33-5319a6a79a34",
+            "name":"BTN Test",
+            "maps":[
+               {
+                  "id":2283028,
+                  "name":"Add mpk based on available customer's mpk ids",
+                  "mapType":"IntegrationServicesAdvancedMap",
+                  "eventUrl":null,
+                  "lastModified":"2018-10-09T12:48:05.587Z",
+                  "sha":"de93869c2576e0efff54be49c69ca437041a37a5"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "orgName":"EF Lang Tech - DEV  - EFCOM - SF",
+      "solutions":[
+         {
+            "id":"9992fdd2-5314-44dd-b8b3-ba0bf64a40bd",
+            "name":"BTN Test event",
+            "maps":[
+               {
+                  "id":2283052,
+                  "name":"Map 0",
+                  "mapType":"IntegrationServicesAdvancedRequestResponseMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/requests/8521?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-10T04:59:34.033Z",
+                  "sha":"3edc39eec81e5c55450d67ce657d4e7000257655"
+               }
+            ]
+         },
+         {
+            "id":"ba54b14b-65b4-4d38-b0d3-45fe0733d155",
+            "name":"CustomConnector",
+            "maps":[
+               {
+                  "id":2233466,
+                  "name":"Map 0",
+                  "mapType":"IntegrationServicesAdvancedMessageMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8408?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-10T05:04:05.273Z",
+                  "sha":"3edc39eec81e5c55450d67ce657d4e7000257655"
+               }
+            ]
+         },
+         {
+            "id":"425c0347-2ff9-4c8c-ba23-1730f2abc89f",
+            "name":"Delete Sales Office",
+            "maps":[
+               {
+                  "id":1868028,
+                  "name":"Map 0",
+                  "mapType":"IntegrationServicesAdvancedMap",
+                  "eventUrl":null,
+                  "lastModified":"2018-10-09T10:44:01.23Z",
+                  "sha":"3edc39eec81e5c55450d67ce657d4e7000257655"
+               }
+            ]
+         },
+         {
+            "id":"e7e37326-0297-45e6-9d1d-bb82e1a79c02",
+            "name":"Dipti Test",
+            "maps":[
+               {
+                  "id":2233707,
+                  "name":"Map 0",
+                  "mapType":"IntegrationServicesAdvancedMessageMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8412?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-09T11:29:16.067Z",
+                  "sha":"3edc39eec81e5c55450d67ce657d4e7000257655"
+               }
+            ]
+         },
+         {
+            "id":"9cbd2977-b8b3-4e60-b823-581adb31f5a7",
+            "name":"New Solution",
+            "maps":[
+               {
+                  "id":2278147,
+                  "name":"Map 0",
+                  "mapType":"IntegrationServicesAdvancedMap",
+                  "eventUrl":null,
+                  "lastModified":"2018-10-09T12:08:11.747Z",
+                  "sha":"3edc39eec81e5c55450d67ce657d4e7000257655"
+               }
+            ]
+         },
+         {
+            "id":"42583938-3330-469f-8271-0bbf18ee9a35",
+            "name":"QueueRoutingConfig Insert and Return ID toSF",
+            "maps":[
+               {
+                  "id":1850571,
+                  "name":"Map 0",
+                  "mapType":"IntegrationServicesAdvancedRequestResponseMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/requests/7233?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-09T12:26:14.817Z",
+                  "sha":"3edc39eec81e5c55450d67ce657d4e7000257655"
+               }
+            ]
+         },
+         {
+            "id":"de3a05bd-28ee-4018-9830-7d47d6e37c24",
+            "name":"Sent Event",
+            "maps":[
+               {
+                  "id":1754497,
+                  "name":"Map 0",
+                  "mapType":"IntegrationServicesAdvancedMap",
+                  "eventUrl":null,
+                  "lastModified":"2018-10-09T12:28:07.47Z",
+                  "sha":"3edc39eec81e5c55450d67ce657d4e7000257655"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "orgName":"EF Lang Tech - DEV  - EFCOM - SF",
+      "solutions":[
+         {
+            "id":"f707dd23-e6c4-4c12-bb34-3d02b1270fac",
+            "name":"A Sitecore_SF_Salesoffice",
+            "maps":[
+               {
+                  "id":1913403,
+                  "name":"Map 1",
+                  "mapType":"IntegrationServicesAdvancedMessageMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/7376?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-10T10:33:21.553Z",
+                  "sha":"e49a5bddf9c0392288ce1a46fa8e4ab9f16e79dc"
+               }
+            ]
+         },
+         {
+            "id":"9992fdd2-5314-44dd-b8b3-ba0bf64a40bd",
+            "name":"BTN Test event",
+            "maps":[
+               {
+                  "id":2297748,
+                  "name":"Map 1",
+                  "mapType":"IntegrationServicesAdvancedMessageMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8533?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-10T11:25:44.63Z",
+                  "sha":"e49a5bddf9c0392288ce1a46fa8e4ab9f16e79dc"
+               }
+            ]
+         },
+         {
+            "id":"e7e37326-0297-45e6-9d1d-bb82e1a79c02",
+            "name":"Dipti Test",
+            "maps":[
+               {
+                  "id":2246043,
+                  "name":"Map 1",
+                  "mapType":"IntegrationServicesAdvancedMessageMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8425?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-09T11:29:22.083Z",
+                  "sha":"e49a5bddf9c0392288ce1a46fa8e4ab9f16e79dc"
+               }
+            ]
+         },
+         {
+            "id":"9cbd2977-b8b3-4e60-b823-581adb31f5a7",
+            "name":"New Solution",
+            "maps":[
+               {
+                  "id":2278179,
+                  "name":"Map 1",
+                  "mapType":"IntegrationServicesAdvancedMap",
+                  "eventUrl":null,
+                  "lastModified":"2018-10-09T12:08:28.53Z",
+                  "sha":"e49a5bddf9c0392288ce1a46fa8e4ab9f16e79dc"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "orgName":"EF Lang Tech - DEV  - EFCOM - SF",
+      "solutions":[
+         {
+            "id":"9992fdd2-5314-44dd-b8b3-ba0bf64a40bd",
+            "name":"BTN Test event",
+            "maps":[
+               {
+                  "id":2283052,
+                  "name":"Map 0",
+                  "mapType":"IntegrationServicesAdvancedRequestResponseMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/requests/8521?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-10T04:59:34.033Z",
+                  "sha":"3edc39eec81e5c55450d67ce657d4e7000257655"
+               }
+            ]
+         },
+         {
+            "id":"ba54b14b-65b4-4d38-b0d3-45fe0733d155",
+            "name":"CustomConnector",
+            "maps":[
+               {
+                  "id":2233466,
+                  "name":"Map 0",
+                  "mapType":"IntegrationServicesAdvancedMessageMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8408?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-10T05:04:05.273Z",
+                  "sha":"3edc39eec81e5c55450d67ce657d4e7000257655"
+               }
+            ]
+         },
+         {
+            "id":"425c0347-2ff9-4c8c-ba23-1730f2abc89f",
+            "name":"Delete Sales Office",
+            "maps":[
+               {
+                  "id":1868028,
+                  "name":"Map 0",
+                  "mapType":"IntegrationServicesAdvancedMap",
+                  "eventUrl":null,
+                  "lastModified":"2018-10-09T10:44:01.23Z",
+                  "sha":"3edc39eec81e5c55450d67ce657d4e7000257655"
+               }
+            ]
+         },
+         {
+            "id":"e7e37326-0297-45e6-9d1d-bb82e1a79c02",
+            "name":"Dipti Test",
+            "maps":[
+               {
+                  "id":2233707,
+                  "name":"Map 0",
+                  "mapType":"IntegrationServicesAdvancedMessageMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8412?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-09T11:29:16.067Z",
+                  "sha":"3edc39eec81e5c55450d67ce657d4e7000257655"
+               }
+            ]
+         },
+         {
+            "id":"9cbd2977-b8b3-4e60-b823-581adb31f5a7",
+            "name":"New Solution",
+            "maps":[
+               {
+                  "id":2278147,
+                  "name":"Map 0",
+                  "mapType":"IntegrationServicesAdvancedMap",
+                  "eventUrl":null,
+                  "lastModified":"2018-10-09T12:08:11.747Z",
+                  "sha":"3edc39eec81e5c55450d67ce657d4e7000257655"
+               }
+            ]
+         },
+         {
+            "id":"42583938-3330-469f-8271-0bbf18ee9a35",
+            "name":"QueueRoutingConfig Insert and Return ID toSF",
+            "maps":[
+               {
+                  "id":1850571,
+                  "name":"Map 0",
+                  "mapType":"IntegrationServicesAdvancedRequestResponseMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/requests/7233?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-09T12:26:14.817Z",
+                  "sha":"3edc39eec81e5c55450d67ce657d4e7000257655"
+               }
+            ]
+         },
+         {
+            "id":"de3a05bd-28ee-4018-9830-7d47d6e37c24",
+            "name":"Sent Event",
+            "maps":[
+               {
+                  "id":1754497,
+                  "name":"Map 0",
+                  "mapType":"IntegrationServicesAdvancedMap",
+                  "eventUrl":null,
+                  "lastModified":"2018-10-09T12:28:07.47Z",
+                  "sha":"3edc39eec81e5c55450d67ce657d4e7000257655"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "orgName":"EF Lang Tech - DEV  - EFCOM - SF",
+      "solutions":[
+         {
+            "id":"9992fdd2-5314-44dd-b8b3-ba0bf64a40bd",
+            "name":"BTN Test event",
+            "maps":[
+               {
+                  "id":2283052,
+                  "name":"Map 0",
+                  "mapType":"IntegrationServicesAdvancedRequestResponseMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/requests/8521?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-10T04:59:34.033Z",
+                  "sha":"3edc39eec81e5c55450d67ce657d4e7000257655"
+               }
+            ]
+         },
+         {
+            "id":"ba54b14b-65b4-4d38-b0d3-45fe0733d155",
+            "name":"CustomConnector",
+            "maps":[
+               {
+                  "id":2233466,
+                  "name":"Map 0",
+                  "mapType":"IntegrationServicesAdvancedMessageMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8408?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-10T05:04:05.273Z",
+                  "sha":"3edc39eec81e5c55450d67ce657d4e7000257655"
+               }
+            ]
+         },
+         {
+            "id":"425c0347-2ff9-4c8c-ba23-1730f2abc89f",
+            "name":"Delete Sales Office",
+            "maps":[
+               {
+                  "id":1868028,
+                  "name":"Map 0",
+                  "mapType":"IntegrationServicesAdvancedMap",
+                  "eventUrl":null,
+                  "lastModified":"2018-10-09T10:44:01.23Z",
+                  "sha":"3edc39eec81e5c55450d67ce657d4e7000257655"
+               }
+            ]
+         },
+         {
+            "id":"e7e37326-0297-45e6-9d1d-bb82e1a79c02",
+            "name":"Dipti Test",
+            "maps":[
+               {
+                  "id":2233707,
+                  "name":"Map 0",
+                  "mapType":"IntegrationServicesAdvancedMessageMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8412?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-09T11:29:16.067Z",
+                  "sha":"3edc39eec81e5c55450d67ce657d4e7000257655"
+               }
+            ]
+         },
+         {
+            "id":"9cbd2977-b8b3-4e60-b823-581adb31f5a7",
+            "name":"New Solution",
+            "maps":[
+               {
+                  "id":2278147,
+                  "name":"Map 0",
+                  "mapType":"IntegrationServicesAdvancedMap",
+                  "eventUrl":null,
+                  "lastModified":"2018-10-09T12:08:11.747Z",
+                  "sha":"3edc39eec81e5c55450d67ce657d4e7000257655"
+               }
+            ]
+         },
+         {
+            "id":"42583938-3330-469f-8271-0bbf18ee9a35",
+            "name":"QueueRoutingConfig Insert and Return ID toSF",
+            "maps":[
+               {
+                  "id":1850571,
+                  "name":"Map 0",
+                  "mapType":"IntegrationServicesAdvancedRequestResponseMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/requests/7233?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-09T12:26:14.817Z",
+                  "sha":"3edc39eec81e5c55450d67ce657d4e7000257655"
+               }
+            ]
+         },
+         {
+            "id":"de3a05bd-28ee-4018-9830-7d47d6e37c24",
+            "name":"Sent Event",
+            "maps":[
+               {
+                  "id":1754497,
+                  "name":"Map 0",
+                  "mapType":"IntegrationServicesAdvancedMap",
+                  "eventUrl":null,
+                  "lastModified":"2018-10-09T12:28:07.47Z",
+                  "sha":"3edc39eec81e5c55450d67ce657d4e7000257655"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "orgName":"EF Lang Tech - DEV  - EFCOM - SF",
+      "solutions":[
+         {
+            "id":"9992fdd2-5314-44dd-b8b3-ba0bf64a40bd",
+            "name":"BTN Test event",
+            "maps":[
+               {
+                  "id":2283052,
+                  "name":"Map 0",
+                  "mapType":"IntegrationServicesAdvancedRequestResponseMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/requests/8521?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-10T04:59:34.033Z",
+                  "sha":"3edc39eec81e5c55450d67ce657d4e7000257655"
+               }
+            ]
+         },
+         {
+            "id":"ba54b14b-65b4-4d38-b0d3-45fe0733d155",
+            "name":"CustomConnector",
+            "maps":[
+               {
+                  "id":2233466,
+                  "name":"Map 0",
+                  "mapType":"IntegrationServicesAdvancedMessageMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8408?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-10T05:04:05.273Z",
+                  "sha":"3edc39eec81e5c55450d67ce657d4e7000257655"
+               }
+            ]
+         },
+         {
+            "id":"425c0347-2ff9-4c8c-ba23-1730f2abc89f",
+            "name":"Delete Sales Office",
+            "maps":[
+               {
+                  "id":1868028,
+                  "name":"Map 0",
+                  "mapType":"IntegrationServicesAdvancedMap",
+                  "eventUrl":null,
+                  "lastModified":"2018-10-09T10:44:01.23Z",
+                  "sha":"3edc39eec81e5c55450d67ce657d4e7000257655"
+               }
+            ]
+         },
+         {
+            "id":"e7e37326-0297-45e6-9d1d-bb82e1a79c02",
+            "name":"Dipti Test",
+            "maps":[
+               {
+                  "id":2233707,
+                  "name":"Map 0",
+                  "mapType":"IntegrationServicesAdvancedMessageMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8412?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-09T11:29:16.067Z",
+                  "sha":"3edc39eec81e5c55450d67ce657d4e7000257655"
+               }
+            ]
+         },
+         {
+            "id":"9cbd2977-b8b3-4e60-b823-581adb31f5a7",
+            "name":"New Solution",
+            "maps":[
+               {
+                  "id":2278147,
+                  "name":"Map 0",
+                  "mapType":"IntegrationServicesAdvancedMap",
+                  "eventUrl":null,
+                  "lastModified":"2018-10-09T12:08:11.747Z",
+                  "sha":"3edc39eec81e5c55450d67ce657d4e7000257655"
+               }
+            ]
+         },
+         {
+            "id":"42583938-3330-469f-8271-0bbf18ee9a35",
+            "name":"QueueRoutingConfig Insert and Return ID toSF",
+            "maps":[
+               {
+                  "id":1850571,
+                  "name":"Map 0",
+                  "mapType":"IntegrationServicesAdvancedRequestResponseMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/requests/7233?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-09T12:26:14.817Z",
+                  "sha":"3edc39eec81e5c55450d67ce657d4e7000257655"
+               }
+            ]
+         },
+         {
+            "id":"de3a05bd-28ee-4018-9830-7d47d6e37c24",
+            "name":"Sent Event",
+            "maps":[
+               {
+                  "id":1754497,
+                  "name":"Map 0",
+                  "mapType":"IntegrationServicesAdvancedMap",
+                  "eventUrl":null,
+                  "lastModified":"2018-10-09T12:28:07.47Z",
+                  "sha":"3edc39eec81e5c55450d67ce657d4e7000257655"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "orgName":"EF Lang Tech - DEV  - EFCOM - SF",
+      "solutions":[
+         {
+            "id":"f707dd23-e6c4-4c12-bb34-3d02b1270fac",
+            "name":"A Sitecore_SF_Salesoffice",
+            "maps":[
+               {
+                  "id":1913403,
+                  "name":"Map 1",
+                  "mapType":"IntegrationServicesAdvancedMessageMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/7376?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-10T10:33:21.553Z",
+                  "sha":"e49a5bddf9c0392288ce1a46fa8e4ab9f16e79dc"
+               }
+            ]
+         },
+         {
+            "id":"9992fdd2-5314-44dd-b8b3-ba0bf64a40bd",
+            "name":"BTN Test event",
+            "maps":[
+               {
+                  "id":2297748,
+                  "name":"Map 1",
+                  "mapType":"IntegrationServicesAdvancedMessageMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8533?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-10T11:25:44.63Z",
+                  "sha":"e49a5bddf9c0392288ce1a46fa8e4ab9f16e79dc"
+               }
+            ]
+         },
+         {
+            "id":"e7e37326-0297-45e6-9d1d-bb82e1a79c02",
+            "name":"Dipti Test",
+            "maps":[
+               {
+                  "id":2246043,
+                  "name":"Map 1",
+                  "mapType":"IntegrationServicesAdvancedMessageMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8425?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-09T11:29:22.083Z",
+                  "sha":"e49a5bddf9c0392288ce1a46fa8e4ab9f16e79dc"
+               }
+            ]
+         },
+         {
+            "id":"9cbd2977-b8b3-4e60-b823-581adb31f5a7",
+            "name":"New Solution",
+            "maps":[
+               {
+                  "id":2278179,
+                  "name":"Map 1",
+                  "mapType":"IntegrationServicesAdvancedMap",
+                  "eventUrl":null,
+                  "lastModified":"2018-10-09T12:08:28.53Z",
+                  "sha":"e49a5bddf9c0392288ce1a46fa8e4ab9f16e79dc"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "orgName":"EF Lang Tech - DEV  - EFCOM - SF",
+      "solutions":[
+         {
+            "id":"b89fb4d5-4cd2-449e-a95c-83297b8a01c7",
+            "name":"DWH_To_SF_Happy Calls_Booking",
+            "maps":[
+               {
+                  "id":1582477,
+                  "name":"Happy Calls Map",
+                  "mapType":"IntegrationServicesAdvancedMap",
+                  "eventUrl":null,
+                  "lastModified":"2018-10-09T11:28:42.63Z",
+                  "sha":"ae2523f659ff5691f1ce895ca20f9271a0394400"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "orgName":"EF Lang Tech - DEV  - EFCOM - SF",
+      "solutions":[
+         {
+            "id":"75766130-b9cb-4224-be81-62c7358834d3",
+            "name":"DWtoSF.Ranking",
+            "maps":[
+               {
+                  "id":1111960,
+                  "name":"mapLeadRanking",
+                  "mapType":"IntegrationServicesAdvancedMap",
+                  "eventUrl":null,
+                  "lastModified":"2018-10-09T11:28:26.45Z",
+                  "sha":"7d1db51a653e2b9e448c1fbc68825ade992f6452"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "orgName":"EF Lang Tech - DEV  - EFCOM - SF",
+      "solutions":[
+         {
+            "id":"75766130-b9cb-4224-be81-62c7358834d3",
+            "name":"DWtoSF.Ranking",
+            "maps":[
+               {
+                  "id":1111965,
+                  "name":"mapOpportunityRanking",
+                  "mapType":"IntegrationServicesAdvancedMap",
+                  "eventUrl":null,
+                  "lastModified":"2018-10-09T11:28:20.01Z",
+                  "sha":"ff1425196ee9ca177469a3e754f51d715ae50cd4"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "orgName":"EF Lang Tech - DEV  - EFCOM - SF",
+      "solutions":[
+         {
+            "id":"763cd10f-9d42-4923-89ab-841f65faa8e9",
+            "name":"EFCom_SF_WFS",
+            "maps":[
+               {
+                  "id":1809922,
+                  "name":"MapWFSToLead",
+                  "mapType":"IntegrationServicesAdvancedMap",
+                  "eventUrl":null,
+                  "lastModified":"2018-10-15T09:04:16.367Z",
+                  "sha":"bc24efb0e6f91ee9d4fd660d0d8495ee6cbfafab"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "orgName":"EF Lang Tech - DEV  - EFCOM - SF",
+      "solutions":[
+         {
+            "id":"e661aafc-ca69-4f0d-8dc8-197b38138ee5",
+            "name":"Flora_SF_User",
+            "maps":[
+               {
+                  "id":1608977,
+                  "name":"mapFloraUserSync",
+                  "mapType":"IntegrationServicesAdvancedRequestResponseMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/requests/6423?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-10T05:16:43.15Z",
+                  "sha":"f2af64c40462f1a0d687b7d9e3e7b8e589e8beaf"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "orgName":"EF Lang Tech - DEV  - EFCOM - SF",
+      "solutions":[
+         {
+            "id":"0839efa6-118f-46fc-b5db-99bacf44f1aa",
+            "name":"ILC SF - EF.COM School Integration",
+            "maps":[
+               {
+                  "id":1906848,
+                  "name":"School Map to EF.Com",
+                  "mapType":"IntegrationServicesAdvancedMessageMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/7378?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-10T10:34:39.163Z",
+                  "sha":"f558b23a0dddb3c1f10d5060abd078038d87a468"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "orgName":"EF Lang Tech - DEV  - EFCOM - SF",
+      "solutions":[
+         {
+            "id":"291da548-7266-4d34-a189-adc70a49e291",
+            "name":"ILC SF - IA SF _ School Integration",
+            "maps":[
+               {
+                  "id":1802560,
+                  "name":"School_Map",
+                  "mapType":"IntegrationServicesAdvancedMessageMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/7126?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-09T11:44:06.89Z",
+                  "sha":"bdf28c16fcff12a9f238a3c5370d189312a8b3f2"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "orgName":"EF Lang Tech - DEV  - EFCOM - SF",
+      "solutions":[
+         {
+            "id":"53908265-2cd8-445d-a1eb-e40373ea5124",
+            "name":"ILC SF - Poseidon_ School Integration",
+            "maps":[
+               {
+                  "id":1906783,
+                  "name":"SF to Poseidon",
+                  "mapType":"IntegrationServicesAdvancedMessageMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/7365?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-09T11:45:12.823Z",
+                  "sha":"e19c46757c998751d754960fa11a222fe5363c24"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "orgName":"EF Lang Tech - DEV  - EFCOM - SF",
+      "solutions":[
+         {
+            "id":"6f2c5ebe-f832-4731-a5f5-96e4ff23448b",
+            "name":"ILC SF_Poseidon_Company",
+            "maps":[
+               {
+                  "id":1888031,
+                  "name":"mapOrganizationAccounts",
+                  "mapType":"IntegrationServicesAdvancedMessageMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/7325?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-09T12:54:23.087Z",
+                  "sha":"3f90dafe60dce7a463eb305df23c5ffcf1600626"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "orgName":"EF Lang Tech - DEV  - EFCOM - SF",
+      "solutions":[
+         {
+            "id":"1f2096fb-305f-4ce9-8706-26b3b5cb4c5d",
+            "name":"MyEF_SF_Ambassador",
+            "maps":[
+               {
+                  "id":1719676,
+                  "name":"MyEF_SF_Ambassador_map",
+                  "mapType":"IntegrationServicesAdvancedRequestResponseMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/requests/6793?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-09T11:46:54.293Z",
+                  "sha":"044f144aa634cf41bd51496729e8e5042116b496"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "orgName":"EF Lang Tech - DEV  - EFCOM - SF",
+      "solutions":[
+         {
+            "id":"637494fa-2339-431e-9952-13aa44c0c20e",
+            "name":"MyEFPlanner-SF",
+            "maps":[
+               {
+                  "id":2162944,
+                  "name":"Opportunity",
+                  "mapType":"IntegrationServicesAdvancedRequestResponseMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/requests/8167?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-11T06:39:46.737Z",
+                  "sha":"5b99cabd50ae2cd9ac98ed496c7098074a2a49fd"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "orgName":"EF Lang Tech - DEV  - EFCOM - SF",
+      "solutions":[
+         {
+            "id":"637494fa-2339-431e-9952-13aa44c0c20e",
+            "name":"MyEFPlanner-SF",
+            "maps":[
+               {
+                  "id":2162979,
+                  "name":"CampaignMember",
+                  "mapType":"IntegrationServicesAdvancedRequestResponseMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/requests/8168?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-11T06:39:46.737Z",
+                  "sha":"21f44dd5011fc620e38dc0aaece8faabfb8d48da"
+               }
+            ]
+         },
+         {
+            "id":"9216dd8c-d23a-4bd7-b716-0174834e0f29",
+            "name":"SF-MyEFPlanner",
+            "maps":[
+               {
+                  "id":2156647,
+                  "name":"CampaignMember",
+                  "mapType":"IntegrationServicesAdvancedMessageMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8136?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-12T10:25:52.007Z",
+                  "sha":"21f44dd5011fc620e38dc0aaece8faabfb8d48da"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "orgName":"EF Lang Tech - DEV  - EFCOM - SF",
+      "solutions":[
+         {
+            "id":"637494fa-2339-431e-9952-13aa44c0c20e",
+            "name":"MyEFPlanner-SF",
+            "maps":[
+               {
+                  "id":2162995,
+                  "name":"NoteMigration",
+                  "mapType":"IntegrationServicesAdvancedRequestResponseMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/requests/8169?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-11T06:39:46.737Z",
+                  "sha":"34a6d552575620eaa9a1c8076ecb9c9b1eafbd8f"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "orgName":"EF Lang Tech - DEV  - EFCOM - SF",
+      "solutions":[
+         {
+            "id":"637494fa-2339-431e-9952-13aa44c0c20e",
+            "name":"MyEFPlanner-SF",
+            "maps":[
+               {
+                  "id":2175145,
+                  "name":"Event",
+                  "mapType":"IntegrationServicesAdvancedRequestResponseMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/requests/8192?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-12T13:04:27.127Z",
+                  "sha":"9604cbb9817445735db7a51cc651b7b42ef557bb"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "orgName":"EF Lang Tech - DEV  - EFCOM - SF",
+      "solutions":[
+         {
+            "id":"637494fa-2339-431e-9952-13aa44c0c20e",
+            "name":"MyEFPlanner-SF",
+            "maps":[
+               {
+                  "id":2311868,
+                  "name":"Event with Quote",
+                  "mapType":"IntegrationServicesAdvancedRequestResponseMap",
+                  "eventUrl":null,
+                  "lastModified":"2018-10-12T12:59:19.66Z",
+                  "sha":"d5e5b6042764f45eda6cee4346e8d5376e4f5f0f"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "orgName":"EF Lang Tech - DEV  - EFCOM - SF",
+      "solutions":[
+         {
+            "id":"9992fdd2-5314-44dd-b8b3-ba0bf64a40bd",
+            "name":"BTN Test event",
+            "maps":[
+               {
+                  "id":2283052,
+                  "name":"Map 0",
+                  "mapType":"IntegrationServicesAdvancedRequestResponseMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/requests/8521?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-10T04:59:34.033Z",
+                  "sha":"3edc39eec81e5c55450d67ce657d4e7000257655"
+               }
+            ]
+         },
+         {
+            "id":"ba54b14b-65b4-4d38-b0d3-45fe0733d155",
+            "name":"CustomConnector",
+            "maps":[
+               {
+                  "id":2233466,
+                  "name":"Map 0",
+                  "mapType":"IntegrationServicesAdvancedMessageMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8408?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-10T05:04:05.273Z",
+                  "sha":"3edc39eec81e5c55450d67ce657d4e7000257655"
+               }
+            ]
+         },
+         {
+            "id":"425c0347-2ff9-4c8c-ba23-1730f2abc89f",
+            "name":"Delete Sales Office",
+            "maps":[
+               {
+                  "id":1868028,
+                  "name":"Map 0",
+                  "mapType":"IntegrationServicesAdvancedMap",
+                  "eventUrl":null,
+                  "lastModified":"2018-10-09T10:44:01.23Z",
+                  "sha":"3edc39eec81e5c55450d67ce657d4e7000257655"
+               }
+            ]
+         },
+         {
+            "id":"e7e37326-0297-45e6-9d1d-bb82e1a79c02",
+            "name":"Dipti Test",
+            "maps":[
+               {
+                  "id":2233707,
+                  "name":"Map 0",
+                  "mapType":"IntegrationServicesAdvancedMessageMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8412?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-09T11:29:16.067Z",
+                  "sha":"3edc39eec81e5c55450d67ce657d4e7000257655"
+               }
+            ]
+         },
+         {
+            "id":"9cbd2977-b8b3-4e60-b823-581adb31f5a7",
+            "name":"New Solution",
+            "maps":[
+               {
+                  "id":2278147,
+                  "name":"Map 0",
+                  "mapType":"IntegrationServicesAdvancedMap",
+                  "eventUrl":null,
+                  "lastModified":"2018-10-09T12:08:11.747Z",
+                  "sha":"3edc39eec81e5c55450d67ce657d4e7000257655"
+               }
+            ]
+         },
+         {
+            "id":"42583938-3330-469f-8271-0bbf18ee9a35",
+            "name":"QueueRoutingConfig Insert and Return ID toSF",
+            "maps":[
+               {
+                  "id":1850571,
+                  "name":"Map 0",
+                  "mapType":"IntegrationServicesAdvancedRequestResponseMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/requests/7233?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-09T12:26:14.817Z",
+                  "sha":"3edc39eec81e5c55450d67ce657d4e7000257655"
+               }
+            ]
+         },
+         {
+            "id":"de3a05bd-28ee-4018-9830-7d47d6e37c24",
+            "name":"Sent Event",
+            "maps":[
+               {
+                  "id":1754497,
+                  "name":"Map 0",
+                  "mapType":"IntegrationServicesAdvancedMap",
+                  "eventUrl":null,
+                  "lastModified":"2018-10-09T12:28:07.47Z",
+                  "sha":"3edc39eec81e5c55450d67ce657d4e7000257655"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "orgName":"EF Lang Tech - DEV  - EFCOM - SF",
+      "solutions":[
+         {
+            "id":"f707dd23-e6c4-4c12-bb34-3d02b1270fac",
+            "name":"A Sitecore_SF_Salesoffice",
+            "maps":[
+               {
+                  "id":1913403,
+                  "name":"Map 1",
+                  "mapType":"IntegrationServicesAdvancedMessageMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/7376?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-10T10:33:21.553Z",
+                  "sha":"e49a5bddf9c0392288ce1a46fa8e4ab9f16e79dc"
+               }
+            ]
+         },
+         {
+            "id":"9992fdd2-5314-44dd-b8b3-ba0bf64a40bd",
+            "name":"BTN Test event",
+            "maps":[
+               {
+                  "id":2297748,
+                  "name":"Map 1",
+                  "mapType":"IntegrationServicesAdvancedMessageMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8533?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-10T11:25:44.63Z",
+                  "sha":"e49a5bddf9c0392288ce1a46fa8e4ab9f16e79dc"
+               }
+            ]
+         },
+         {
+            "id":"e7e37326-0297-45e6-9d1d-bb82e1a79c02",
+            "name":"Dipti Test",
+            "maps":[
+               {
+                  "id":2246043,
+                  "name":"Map 1",
+                  "mapType":"IntegrationServicesAdvancedMessageMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8425?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-09T11:29:22.083Z",
+                  "sha":"e49a5bddf9c0392288ce1a46fa8e4ab9f16e79dc"
+               }
+            ]
+         },
+         {
+            "id":"9cbd2977-b8b3-4e60-b823-581adb31f5a7",
+            "name":"New Solution",
+            "maps":[
+               {
+                  "id":2278179,
+                  "name":"Map 1",
+                  "mapType":"IntegrationServicesAdvancedMap",
+                  "eventUrl":null,
+                  "lastModified":"2018-10-09T12:08:28.53Z",
+                  "sha":"e49a5bddf9c0392288ce1a46fa8e4ab9f16e79dc"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "orgName":"EF Lang Tech - DEV  - EFCOM - SF",
+      "solutions":[
+         {
+            "id":"bcdddc5f-e3d4-4226-8c60-f9b0deeb7c83",
+            "name":"New2",
+            "maps":[
+               {
+                  "id":2234356,
+                  "name":"new",
+                  "mapType":"IntegrationServicesAdvancedMessageMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8413?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-09-27T12:30:36.94Z",
+                  "sha":"3f47e08ffe0906245aefb124e7685a40c0f5ab05"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "orgName":"EF Lang Tech - DEV  - EFCOM - SF",
+      "solutions":[
+         {
+            "id":"38c625d0-3c42-45aa-8846-45e1aa075c07",
+            "name":"Poseidon_SF_GoalSalesStat",
+            "maps":[
+               {
+                  "id":1584490,
+                  "name":"mapGoalSalesStat",
+                  "mapType":"IntegrationServicesAdvancedMap",
+                  "eventUrl":null,
+                  "lastModified":"2018-10-09T12:19:28.707Z",
+                  "sha":"acf085a54942028d727c949ed2a6fffe6104eb63"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "orgName":"EF Lang Tech - DEV  - EFCOM - SF",
+      "solutions":[
+         {
+            "id":"38c625d0-3c42-45aa-8846-45e1aa075c07",
+            "name":"Poseidon_SF_GoalSalesStat",
+            "maps":[
+               {
+                  "id":1676678,
+                  "name":"Delete SalesStat",
+                  "mapType":"IntegrationServicesAdvancedMap",
+                  "eventUrl":null,
+                  "lastModified":"2018-10-09T12:19:35.55Z",
+                  "sha":"cbc8c5f3ef39c0da4705ed6435a45cbae12651f4"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "orgName":"EF Lang Tech - DEV  - EFCOM - SF",
+      "solutions":[
+         {
+            "id":"101ec702-aed1-4316-9fcf-5bc2a74cac6c",
+            "name":"Poseidon_SF_SourceCode",
+            "maps":[
+               {
+                  "id":1288017,
+                  "name":"mapSourceCode",
+                  "mapType":"IntegrationServicesAdvancedMap",
+                  "eventUrl":null,
+                  "lastModified":"2018-10-09T12:19:55.923Z",
+                  "sha":"d1a3c72b8180defa2b8ce33ee841174cad1c2b73"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "orgName":"EF Lang Tech - DEV  - EFCOM - SF",
+      "solutions":[
+         {
+            "id":"101ec702-aed1-4316-9fcf-5bc2a74cac6c",
+            "name":"Poseidon_SF_SourceCode",
+            "maps":[
+               {
+                  "id":1108542,
+                  "name":"Delete All Salesforce Sources",
+                  "mapType":"IntegrationServicesAdvancedMap",
+                  "eventUrl":null,
+                  "lastModified":"2018-10-09T12:20:12.347Z",
+                  "sha":"4a3de9d3c5263f34969d08271b211b665e33daf7"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "orgName":"EF Lang Tech - DEV  - EFCOM - SF",
+      "solutions":[
+         {
+            "id":"a1b2a242-8e53-4f39-bb9b-c24a41d53de9",
+            "name":"PosToSF_BookingInfo",
+            "maps":[
+               {
+                  "id":1526879,
+                  "name":"Poseidon_SF_Booking_Map",
+                  "mapType":"IntegrationServicesAdvancedRequestResponseMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/requests/6247?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-09T12:23:11.19Z",
+                  "sha":"9c920a48f0ab3e7534cdef59e65be1e0779f4e79"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "orgName":"EF Lang Tech - DEV  - EFCOM - SF",
+      "solutions":[
+         {
+            "id":"c98f1e9c-53b5-4269-b55d-dcf649b4fec7",
+            "name":"PosToSF_Quote",
+            "maps":[
+               {
+                  "id":1526877,
+                  "name":"mapPosToSFQuote",
+                  "mapType":"IntegrationServicesAdvancedRequestResponseMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/requests/6248?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-09T12:24:24.863Z",
+                  "sha":"a4d50f3bc8c7aa711889bc2a41dce50b19cd6c05"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "orgName":"EF Lang Tech - DEV  - EFCOM - SF",
+      "solutions":[
+         {
+            "id":"2d820820-4909-499d-b2a2-6a51fe913618",
+            "name":"PosToSF_UpdatePosCustomerID",
+            "maps":[
+               {
+                  "id":1526873,
+                  "name":"mapPosCustomerIdUpdate",
+                  "mapType":"IntegrationServicesAdvancedRequestResponseMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/requests/6246?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-09T09:49:19.437Z",
+                  "sha":"eb15ba2a2cde896fd752a1e41ef4c58a04467dc3"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "orgName":"EF Lang Tech - DEV  - EFCOM - SF",
+      "solutions":[
+         {
+            "id":"b08b586d-8ae2-4368-a6f6-b4f0e4fabf7d",
+            "name":"ProcessScribeErrors",
+            "maps":[
+               {
+                  "id":1163873,
+                  "name":"mapScribeErrors",
+                  "mapType":"IntegrationServicesAdvancedMap",
+                  "eventUrl":null,
+                  "lastModified":"2018-09-26T05:00:00.403Z",
+                  "sha":"47fd075bf849b7971af22565b30ba349aafec39b"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "orgName":"EF Lang Tech - DEV  - EFCOM - SF",
+      "solutions":[
+         {
+            "id":"9992fdd2-5314-44dd-b8b3-ba0bf64a40bd",
+            "name":"BTN Test event",
+            "maps":[
+               {
+                  "id":2283052,
+                  "name":"Map 0",
+                  "mapType":"IntegrationServicesAdvancedRequestResponseMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/requests/8521?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-10T04:59:34.033Z",
+                  "sha":"3edc39eec81e5c55450d67ce657d4e7000257655"
+               }
+            ]
+         },
+         {
+            "id":"ba54b14b-65b4-4d38-b0d3-45fe0733d155",
+            "name":"CustomConnector",
+            "maps":[
+               {
+                  "id":2233466,
+                  "name":"Map 0",
+                  "mapType":"IntegrationServicesAdvancedMessageMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8408?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-10T05:04:05.273Z",
+                  "sha":"3edc39eec81e5c55450d67ce657d4e7000257655"
+               }
+            ]
+         },
+         {
+            "id":"425c0347-2ff9-4c8c-ba23-1730f2abc89f",
+            "name":"Delete Sales Office",
+            "maps":[
+               {
+                  "id":1868028,
+                  "name":"Map 0",
+                  "mapType":"IntegrationServicesAdvancedMap",
+                  "eventUrl":null,
+                  "lastModified":"2018-10-09T10:44:01.23Z",
+                  "sha":"3edc39eec81e5c55450d67ce657d4e7000257655"
+               }
+            ]
+         },
+         {
+            "id":"e7e37326-0297-45e6-9d1d-bb82e1a79c02",
+            "name":"Dipti Test",
+            "maps":[
+               {
+                  "id":2233707,
+                  "name":"Map 0",
+                  "mapType":"IntegrationServicesAdvancedMessageMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8412?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-09T11:29:16.067Z",
+                  "sha":"3edc39eec81e5c55450d67ce657d4e7000257655"
+               }
+            ]
+         },
+         {
+            "id":"9cbd2977-b8b3-4e60-b823-581adb31f5a7",
+            "name":"New Solution",
+            "maps":[
+               {
+                  "id":2278147,
+                  "name":"Map 0",
+                  "mapType":"IntegrationServicesAdvancedMap",
+                  "eventUrl":null,
+                  "lastModified":"2018-10-09T12:08:11.747Z",
+                  "sha":"3edc39eec81e5c55450d67ce657d4e7000257655"
+               }
+            ]
+         },
+         {
+            "id":"42583938-3330-469f-8271-0bbf18ee9a35",
+            "name":"QueueRoutingConfig Insert and Return ID toSF",
+            "maps":[
+               {
+                  "id":1850571,
+                  "name":"Map 0",
+                  "mapType":"IntegrationServicesAdvancedRequestResponseMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/requests/7233?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-09T12:26:14.817Z",
+                  "sha":"3edc39eec81e5c55450d67ce657d4e7000257655"
+               }
+            ]
+         },
+         {
+            "id":"de3a05bd-28ee-4018-9830-7d47d6e37c24",
+            "name":"Sent Event",
+            "maps":[
+               {
+                  "id":1754497,
+                  "name":"Map 0",
+                  "mapType":"IntegrationServicesAdvancedMap",
+                  "eventUrl":null,
+                  "lastModified":"2018-10-09T12:28:07.47Z",
+                  "sha":"3edc39eec81e5c55450d67ce657d4e7000257655"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "orgName":"EF Lang Tech - DEV  - EFCOM - SF",
+      "solutions":[
+         {
+            "id":"da7103a2-fb1a-4d4f-b739-7ab890c2232e",
+            "name":"REST POC",
+            "maps":[
+               {
+                  "id":1272985,
+                  "name":"RestMap",
+                  "mapType":"IntegrationServicesAdvancedMap",
+                  "eventUrl":null,
+                  "lastModified":"2018-10-09T12:27:16.003Z",
+                  "sha":"ae5b010f179c8ec22bbf3162cb57d7223878f134"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "orgName":"EF Lang Tech - DEV  - EFCOM - SF",
+      "solutions":[
+         {
+            "id":"9992fdd2-5314-44dd-b8b3-ba0bf64a40bd",
+            "name":"BTN Test event",
+            "maps":[
+               {
+                  "id":2283052,
+                  "name":"Map 0",
+                  "mapType":"IntegrationServicesAdvancedRequestResponseMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/requests/8521?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-10T04:59:34.033Z",
+                  "sha":"3edc39eec81e5c55450d67ce657d4e7000257655"
+               }
+            ]
+         },
+         {
+            "id":"ba54b14b-65b4-4d38-b0d3-45fe0733d155",
+            "name":"CustomConnector",
+            "maps":[
+               {
+                  "id":2233466,
+                  "name":"Map 0",
+                  "mapType":"IntegrationServicesAdvancedMessageMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8408?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-10T05:04:05.273Z",
+                  "sha":"3edc39eec81e5c55450d67ce657d4e7000257655"
+               }
+            ]
+         },
+         {
+            "id":"425c0347-2ff9-4c8c-ba23-1730f2abc89f",
+            "name":"Delete Sales Office",
+            "maps":[
+               {
+                  "id":1868028,
+                  "name":"Map 0",
+                  "mapType":"IntegrationServicesAdvancedMap",
+                  "eventUrl":null,
+                  "lastModified":"2018-10-09T10:44:01.23Z",
+                  "sha":"3edc39eec81e5c55450d67ce657d4e7000257655"
+               }
+            ]
+         },
+         {
+            "id":"e7e37326-0297-45e6-9d1d-bb82e1a79c02",
+            "name":"Dipti Test",
+            "maps":[
+               {
+                  "id":2233707,
+                  "name":"Map 0",
+                  "mapType":"IntegrationServicesAdvancedMessageMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8412?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-09T11:29:16.067Z",
+                  "sha":"3edc39eec81e5c55450d67ce657d4e7000257655"
+               }
+            ]
+         },
+         {
+            "id":"9cbd2977-b8b3-4e60-b823-581adb31f5a7",
+            "name":"New Solution",
+            "maps":[
+               {
+                  "id":2278147,
+                  "name":"Map 0",
+                  "mapType":"IntegrationServicesAdvancedMap",
+                  "eventUrl":null,
+                  "lastModified":"2018-10-09T12:08:11.747Z",
+                  "sha":"3edc39eec81e5c55450d67ce657d4e7000257655"
+               }
+            ]
+         },
+         {
+            "id":"42583938-3330-469f-8271-0bbf18ee9a35",
+            "name":"QueueRoutingConfig Insert and Return ID toSF",
+            "maps":[
+               {
+                  "id":1850571,
+                  "name":"Map 0",
+                  "mapType":"IntegrationServicesAdvancedRequestResponseMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/requests/7233?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-09T12:26:14.817Z",
+                  "sha":"3edc39eec81e5c55450d67ce657d4e7000257655"
+               }
+            ]
+         },
+         {
+            "id":"de3a05bd-28ee-4018-9830-7d47d6e37c24",
+            "name":"Sent Event",
+            "maps":[
+               {
+                  "id":1754497,
+                  "name":"Map 0",
+                  "mapType":"IntegrationServicesAdvancedMap",
+                  "eventUrl":null,
+                  "lastModified":"2018-10-09T12:28:07.47Z",
+                  "sha":"3edc39eec81e5c55450d67ce657d4e7000257655"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "orgName":"EF Lang Tech - DEV  - EFCOM - SF",
+      "solutions":[
+         {
+            "id":"3003e060-70f7-4d47-ae9e-0a474132be38",
+            "name":"SF_Flora_UserIDs",
+            "maps":[
+               {
+                  "id":1870295,
+                  "name":"updateSFIds",
+                  "mapType":"IntegrationServicesAdvancedMap",
+                  "eventUrl":null,
+                  "lastModified":"2018-08-03T15:52:04.503Z",
+                  "sha":"0f033f7ea2ddb36b9988201a5582360fe014a96f"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "orgName":"EF Lang Tech - DEV  - EFCOM - SF",
+      "solutions":[
+         {
+            "id":"84e06982-6104-4a20-b99a-6cd19b9bcbc3",
+            "name":"SF_SalesCenter_Records",
+            "maps":[
+               {
+                  "id":2109020,
+                  "name":"Imported - mapAccount",
+                  "mapType":"IntegrationServicesAdvancedMessageMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/7940?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-08-30T10:12:33.04Z",
+                  "sha":"03507d11cb0c8d6bbb76011d020b701dc3420f6a"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "orgName":"EF Lang Tech - DEV  - EFCOM - SF",
+      "solutions":[
+         {
+            "id":"84e06982-6104-4a20-b99a-6cd19b9bcbc3",
+            "name":"SF_SalesCenter_Records",
+            "maps":[
+               {
+                  "id":2109021,
+                  "name":"Imported - mapOpportunity",
+                  "mapType":"IntegrationServicesAdvancedMessageMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/7941?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-08-30T10:14:07.917Z",
+                  "sha":"d8fe11f370ff9c4d32525bf74fb3b1f1427044ae"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "orgName":"EF Lang Tech - DEV  - EFCOM - SF",
+      "solutions":[
+         {
+            "id":"9216dd8c-d23a-4bd7-b716-0174834e0f29",
+            "name":"SF-MyEFPlanner",
+            "maps":[
+               {
+                  "id":2135614,
+                  "name":"Account",
+                  "mapType":"IntegrationServicesAdvancedMessageMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8070?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-12T10:25:52.007Z",
+                  "sha":"d81716a0b0c831d50c1094b4d6068c4b3af27dfe"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "orgName":"EF Lang Tech - DEV  - EFCOM - SF",
+      "solutions":[
+         {
+            "id":"9216dd8c-d23a-4bd7-b716-0174834e0f29",
+            "name":"SF-MyEFPlanner",
+            "maps":[
+               {
+                  "id":2142024,
+                  "name":"Opporunity",
+                  "mapType":"IntegrationServicesAdvancedMessageMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8093?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-12T10:25:52.007Z",
+                  "sha":"4729652e00303c14629656f891fb35fca3be578b"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "orgName":"EF Lang Tech - DEV  - EFCOM - SF",
+      "solutions":[
+         {
+            "id":"9216dd8c-d23a-4bd7-b716-0174834e0f29",
+            "name":"SF-MyEFPlanner",
+            "maps":[
+               {
+                  "id":2142049,
+                  "name":"Quote",
+                  "mapType":"IntegrationServicesAdvancedMessageMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8094?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-12T10:25:52.007Z",
+                  "sha":"826e4afaa49bc462265d69a176fbd0d06be8e68b"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "orgName":"EF Lang Tech - DEV  - EFCOM - SF",
+      "solutions":[
+         {
+            "id":"9216dd8c-d23a-4bd7-b716-0174834e0f29",
+            "name":"SF-MyEFPlanner",
+            "maps":[
+               {
+                  "id":2142429,
+                  "name":"User",
+                  "mapType":"IntegrationServicesAdvancedMessageMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8098?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-12T10:25:52.007Z",
+                  "sha":"cb6b581b33bd90a3061a152dd37784247ed36d56"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "orgName":"EF Lang Tech - DEV  - EFCOM - SF",
+      "solutions":[
+         {
+            "id":"637494fa-2339-431e-9952-13aa44c0c20e",
+            "name":"MyEFPlanner-SF",
+            "maps":[
+               {
+                  "id":2162979,
+                  "name":"CampaignMember",
+                  "mapType":"IntegrationServicesAdvancedRequestResponseMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/requests/8168?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-11T06:39:46.737Z",
+                  "sha":"21f44dd5011fc620e38dc0aaece8faabfb8d48da"
+               }
+            ]
+         },
+         {
+            "id":"9216dd8c-d23a-4bd7-b716-0174834e0f29",
+            "name":"SF-MyEFPlanner",
+            "maps":[
+               {
+                  "id":2156647,
+                  "name":"CampaignMember",
+                  "mapType":"IntegrationServicesAdvancedMessageMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8136?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-12T10:25:52.007Z",
+                  "sha":"21f44dd5011fc620e38dc0aaece8faabfb8d48da"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "orgName":"EF Lang Tech - DEV  - EFCOM - SF",
+      "solutions":[
+         {
+            "id":"9216dd8c-d23a-4bd7-b716-0174834e0f29",
+            "name":"SF-MyEFPlanner",
+            "maps":[
+               {
+                  "id":2156674,
+                  "name":"SalesOfficePrograms",
+                  "mapType":"IntegrationServicesAdvancedMessageMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8137?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-12T10:25:52.007Z",
+                  "sha":"6abe158ceedab5e73a00f25fda0c40791c8d919d"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "orgName":"EF Lang Tech - DEV  - EFCOM - SF",
+      "solutions":[
+         {
+            "id":"9216dd8c-d23a-4bd7-b716-0174834e0f29",
+            "name":"SF-MyEFPlanner",
+            "maps":[
+               {
+                  "id":2156731,
+                  "name":"Campaign",
+                  "mapType":"IntegrationServicesAdvancedMessageMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8138?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-12T10:25:52.007Z",
+                  "sha":"70dd47e48ae414df5ef985a072321f184140e4da"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "orgName":"EF Lang Tech - DEV  - EFCOM - SF",
+      "solutions":[
+         {
+            "id":"9216dd8c-d23a-4bd7-b716-0174834e0f29",
+            "name":"SF-MyEFPlanner",
+            "maps":[
+               {
+                  "id":2156933,
+                  "name":"Destination",
+                  "mapType":"IntegrationServicesAdvancedMessageMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/messages/8139?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-10-12T10:25:52.007Z",
+                  "sha":"48ef09cc1ead50d7e90c8573d8bcf79f524c3d0d"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "orgName":"EF Lang Tech - DEV  - EFCOM - SF",
+      "solutions":[
+         {
+            "id":"c0bfcccc-21b7-42f5-9053-2986cfed5fc4",
+            "name":"SFtoPos_ActiveOpportunitySync",
+            "maps":[
+               {
+                  "id":1526866,
+                  "name":"ActiveOpportunitySync",
+                  "mapType":"IntegrationServicesAdvancedRequestResponseMap",
+                  "eventUrl":"https://endpoint-frankfurt.scribesoft.com/v1/orgs/25738/requests/6456?accesstoken=B693644B-8D85-4568-A146-7851D8E47822",
+                  "lastModified":"2018-06-05T12:48:46.78Z",
+                  "sha":"fee1ecd777a96a06e1305d466424d8224990263c"
+               }
+            ]
+         }
+      ]
+   }
+]
